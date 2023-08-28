@@ -1,2 +1,0 @@
-# The Book of Canon Law
-The fourth part of the [[Iomedaean Canon]] of the [[Church of Iomedae]]. This book contains the wisdom and other Teachings of the Faith that the first [[Arcadia|Arcadian]] settlers brought with them from across the [[Wilted Ocean]]. It contains guides to interpreting the [[Three Lays]], [[Six Tenets]] and the [[Nine Parables]], as well as judicial guidelines.

@@ -1,2 +1,0 @@
-#draft 
-See also [[Boazulmoš]]

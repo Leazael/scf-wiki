@@ -1,4 +1,0 @@
-# Treaty of Ölmfurt
-Signed in 1586 after the great [[Yádor|Yádorian]] [[Váida Khan|Invasion of Váida Khan]] in 1587 in order to prevent future invasionsof the kind. 
-
-It was signed by [[Ilmbund]], [[Arcadia]] and [[Lethania]], the same forces that helped repelled the invasion, and lead to the establishment of the Great Fortress at [[Raubmaul]], on the southern side of the gap between the [[Göllnyr Mountains]] and the [[Wavering Mountains]].
