@@ -1,0 +1,5 @@
+Symbolic Iomedaeism is a [[Heresy]] which has grown out of the older [[Heresy]] of [[Perfectionist Iomedaeism]]. The belief holds that there never was a Mortal [[Iomedae]], but that the concept of a Mortal Iomedae was created, and possibly endorsed, by the godhead to allow mortals to better comprehend her teachings. Alternatively, it gives mortals something to belief in, since the true nature of the immortal and ineffible goddess would be incomprehensible.
+
+This belief is specifically disavowed by the [[Dimmerschluß Creed]], and is thus a [[Heresy]]  in the dogma of the [[Synodal Church of Iomedae|Synodal Church]]. Nevertheless, some [[Asynodal Churches of Iomedae|Asynodal Churches]] still hold to it. 
+
+The believers in a Symbolic Iomedae often consider the various [[Protokyriatic Deism|Protokyriatic Deities]] to be similar aspects of the immortal godhead.

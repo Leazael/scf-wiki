@@ -1,0 +1,4 @@
+# The Strait of Drakul
+The strait of Drakul is a body of water that links the [[Rime Sea]] and the [[Withershin Ocean]], and that separates the countries of [[Izmoroz]] and [[Voyvetera]]. While sea traffic between the north and the south of the [[Crucible]] is rare, all such traffic, from the [[Rime Sea]] to the [[Wilted Ocean]], must pass through the Strait.
+
+The largest port in the strait is the [[Voyvetera|Voyveteran]] city of [[Voievodmare]], a well knows stop for all sailors travelling from north to south.
