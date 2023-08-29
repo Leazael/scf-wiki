@@ -1,0 +1,4 @@
+---
+aliases: [Selenomancer, Selenomancers]
+---
+#unmade
