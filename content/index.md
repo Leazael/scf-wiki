@@ -1,3 +1,6 @@
+---
+title: SCF-Wiki
+---
 ![[de_kroes_v2.png]]
 # Index:
 - Concepts
@@ -191,3 +194,5 @@
   - [[Kovold]]
   - [[Lizardfolk]]
   - [[Treant]]
+
+Data: 166 pages completed, 79 in draft, 313 keywords.
