@@ -1,4 +1,0 @@
----
-aliases: [Kef Hattikvah]
----
-#unmade

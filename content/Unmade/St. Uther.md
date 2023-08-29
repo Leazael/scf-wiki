@@ -1,4 +1,0 @@
----
-aliases: [Pendragon, Pendragonian]
----
-#unmade

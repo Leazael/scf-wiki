@@ -1,3 +1,0 @@
----
-aliases: [Alchemical, Alchemist, Alchemists]
----

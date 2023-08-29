@@ -1,4 +1,0 @@
----
-aliases: [Magical, Magie]
---- 
-#unmade

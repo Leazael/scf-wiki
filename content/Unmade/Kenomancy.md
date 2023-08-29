@@ -1,4 +1,0 @@
----
-aliases: [Kenomancer, Kenomancers]
----
-#unmade

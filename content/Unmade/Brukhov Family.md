@@ -1,7 +1,0 @@
-#unmade
-
-%%
-Alphons
-Vladimir
-Carmillar
-%%
