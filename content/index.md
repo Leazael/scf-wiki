@@ -1,5 +1,5 @@
 ---
-title: SCF-Wiki
+title: Index
 ---
 ![[de_kroes_v2.png]]
 # Index:
