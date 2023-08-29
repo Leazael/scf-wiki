@@ -1,5 +1,5 @@
 ---
-aliases: [Arcadia, Arcadian, Arcadians]
+aliases: [Arcadian, Arcadians]
 ---
 # Summary
 A country in the south-eastern parts of the [[Crucible]]. It is the seat of the [[Orthodox Synodal Church of Iomedae]] and the [[Synod]] of [[Bishop|Archbishops]]. It is ruled by a council of elected ministers and headed by Priest-Queen [[Mary VIII]].
@@ -10,7 +10,7 @@ The pre-eminent place of learning in Arcadia is the [[Seminary of Aldsbury]], lo
 
 Arcadia has also sustained a centuries long conflict with [[Nachýr]], due to its practice of slavery, and abomination according to the [[Iomedaean Canon]] and the [[Six Tenets]] in particular.
 
-Arcadia shares a border with [[Lethania]], [[Ilmbund]] and [[Ruïn]]. Since 1751, a large part of the Arcadian economy has come to depend on the spice imports from its colonies in [[Vahestan]].
+Arcadia shares a border with [[Lethania]], [[Ilmbund]] and [[Ruïn]]. Since 1751, a large part of the Arcadian [[Wirtship]] has come to depend on the spice imports from its colonies in [[Vahestan]].
 
 # History
 In the year 526 AF the first settlers from across the [[Wilted Ocean]] appeared on the [[Crucible]], landing on the [[Step-Stone Isles]] somewhere near the modern-day city of [[Providence]]. These settlers came by boat from a [[Vahestan|distant country]] across the ocean and settled on the shores of what would later become [[Arcadia]]. With them they brought the [[Three Lays]], the [[Six Tenets]] and the [[Nine Parables]]; the [[Iomedaean Canon]] of the [[Church of Iomedae|Church]] of [[Iomedae]]. A religion that would later be one of the foremost religions of the Crucible.
@@ -25,7 +25,7 @@ Hellbent on destroying [[Tiamat]] and all her followers, King [[Richaerd II]] of
 
 Although the [[Arcadia|Arcadian]] forces suffered some heavy losses and were ultimately unsuccessful in destroying the [[Nachýr|Empire]], they did manage to put an end to the constant advancement of the [[Nachýr|Empire’s]] borders. In 831 AF the remaining armies of Arcadia returned home, now led by [[Richaerd II|Richaerd II’s]] only surviving son, [[Henry II]].
 
-Almost two hundred years after the first [[Crusade]], [[Tiamat]] decided that an end should be put to [[Arcadia|Arcadia’s]] arrogance and in 1017 AF the Counter Crusade was launched, a conflict that would last until 1021 AF. Not only did Tiamat march in force upon [[Arcadia]], she also personally laid waste to many of [[Arcadia|Arcadia’s]] most crucial allies, most notably during the [[Sack of Ilm's Watch]] in the winter of 1018 AF.
+Almost two hundred years after the first [[Crusade]], [[Tiamat]] decided that an end should be put to [[Arcadia|Arcadia’s]] arrogance and in 1017 AF the Counter Crusade was launched, a conflict that would last until 1021 AF. Not only did Tiamat march in force upon [[Arcadia]], she also personally laid waste to many of [[Arcadia|Arcadia’s]] most crucial allies, most notably during the [[Ilm's Watch|Sack of Ilm's Watch]] in the winter of 1018 AF.
 
 Over the next four hundred years, [[Arcadia]] would try two more times to destroy [[Tiamat]], launching two new crusades, one from 1199 AF to 1211 AF and one from 1416 AF to 1424 AF. 
 
@@ -33,7 +33,7 @@ Starting in 1423, and in the decades thereafter, [[Arcadia]] actively supported 
 
 In 1585-1586, [[Arcadia]] aided the rest of the [[Crucible]] in pushing back the invading [[Yádor|Yádorian]] hordes, and was one of the signatories at the [[Treaty of Ölmfurt]].
 
-In 1656 AF, against the wishes and wisdom of [[Lethania]] and Ilmbund, Arcadia launched its fourth, and to this date final [[Crusade]]. After a small period of economic downfall, caused by draughts and subsequent floods, the [[Synod]] of [[Arcadia]] become more and more radicalized, to the point that the [[Inquisition]] started blaming [[Tiamat]] and [[Tiamat]] worshippers for their misfortune. These allegations came to a crescendo when finally the Priest-King [[Arcadia]] decided that [[Tiamat]] had to be stopped once and for all. 
+In 1656 AF, against the wishes and wisdom of [[Lethania]] and Ilmbund, Arcadia launched its fourth, and to this date final [[Crusade]]. After a small period of [[Wirtship]] downfall, caused by draughts and subsequent floods, the [[Synod]] of [[Arcadia]] become more and more radicalized, to the point that the [[Inquisition]] started blaming [[Tiamat]] and [[Tiamat]] worshippers for their misfortune. These allegations came to a crescendo when finally the Priest-King [[Arcadia]] decided that [[Tiamat]] had to be stopped once and for all. 
 
 While the [[Crusade]] raged on, the people of Arcadia were slowly starving, while all the available food was send to the front lines of the war. After a seven year long [[Crusade]] and the siege of [[Lygárnach]], which lasted three years, it was decided by [[Lethania]] and [[Ilmbund]] that this [[Crusade]] should come to an end. They rallied their forces against those of [[Arcadia]] and slowly drove the [[Arcadia|Arcadian]] armies back from [[Nachýr]] towards [[Arcadia]]. In addition, it was decided that a large part of [[Arcadia|Arcadian]] territory would be transferred to Lethania, as an independent province, ruled by a more peaceful branch of the Arcadian royal family. Thus it was in the year 1663 that the fourth [[Crusade]] ended, and that the Province of [[Averion]] became a part of [[Lethania|Lethanian]] Confederacy. 
 

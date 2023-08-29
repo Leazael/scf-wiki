@@ -5,7 +5,7 @@ A university is an institution of higher education and research which awards aca
 
 There are three universities known within the [[Crucible]], which are:
 - The [[College of Elbisborg]], in [[Elbisborg]], [[Ilmbund]]. 
-  The [[College of Elbisborg|College]] is the oldest of the three universities. Known for being more focued on [[Natural Philosophy|Theoretical Philosophy]] than the other two institutes, and for its large [[Hermetic Philosophy|Hermetic Philosophy Department]].
+  The [[College of Elbisborg|College]] is the oldest of the three universities. Known for being more focused on [[Natural Philosophy|Theoretical Philosophy]] than the other two institutes, and for its large [[Hermetic Philosophy|Hermetic Philosophy Department]].
 - The [[Academy of Weißenfels]], in [[Weißenfels]], [[Yrsingen]], [[Lethania|South-Lethania]].
 The [[Academy of Weißenfels|Academy]] is known for producing more applied [[Natural Philosophy|Philosophers]] and its practical research into [[Catastrophe Theory]] and the development of [[Ordinator|Ordinators]].
 - The [[Seminary of Aldsbury]], in [[Aldsbury]], [[Arcadia]]. 

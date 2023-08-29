@@ -1,5 +1,5 @@
 ---
 aliases: [Merovian]
 ---
-A [[Natural Philosophy|Philosopher]] of [[Wirtsmanship]].
+A [[Natural Philosophy|Philosopher]] of [[Wirtship]].
 Renowned [[Revelationary Revolution|Apocalyptic]] thinker.

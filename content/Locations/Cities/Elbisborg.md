@@ -1,4 +1,4 @@
-Elbisborg is the oldest city in the nation of [[Ilmbund]], though it was younger than the city of [[Ilm's Watch]] before its [[Sack of Ilm's Watch|sacking]] in 1018 AF. The city is build against the edge of the [[Göllnyr Mountains]], not far from the borders of [[Dvårgheim]].
+Elbisborg is the oldest city in the nation of [[Ilmbund]], though it was younger than the city of [[Ilm's Watch]] before its sacking in 1018 AF. The city is build against the edge of the [[Göllnyr Mountains]], not far from the borders of [[Dvårgheim]].
 
 The city is famous for the great [[Walls of Elbisborg]], which delineate the centres of the city from its sprawling suburbs.
 

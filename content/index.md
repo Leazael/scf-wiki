@@ -6,9 +6,12 @@
     - [[Scabbard Cycle]]
   - Magical
     - [[Blood Oath]]
+    - [[Enchantment]]
     - [[Hermetic Philosophy]]
+    - [[Necromancy]]
     - [[Thaumaturgy]]
     - [[Ways and Means]]
+    - [[Wild Magic]]
   - Philosophical
     - [[Anætherial Resonance]]
     - [[Black Box]]
@@ -42,7 +45,7 @@
     - [[Resolite]]
     - [[Sonofax]]
     - [[Vocofax]]
-    - [[Wirtsmanship]]
+    - [[Wirtship]]
 - Creatures
   - [[Blood Moth]]
   - [[Carrion Squid]]
@@ -57,10 +60,13 @@
   - [[Æsir]]
 - Events
   - [[Blightfire of Elbisborg]]
+  - [[Crusade]]
   - [[Elven Genocide]]
   - [[Gabel Pact]]
   - [[Lethanian War of Separation]]
+  - [[Nachýrian Exodus]]
   - [[Peace of Weißenfels]]
+  - [[Rainbow Blaze of Aldsbury]]
   - [[Reparation of '51]]
   - [[Revelationary Revolution]]
   - [[Secession of '37]]
@@ -77,6 +83,7 @@
     - [[Shining Academy]]
   - Learning
     - [[College of Elbisborg]]
+    - [[Hermetic Lodge]]
     - [[Seminary of Aldsbury]]
     - [[University]]
   - Political
@@ -107,10 +114,12 @@
     - [[Elsar]]
     - [[Previous World]]
   - Cities
+    - [[Aldsbury]]
     - [[Covenant]]
     - [[Echsee]]
     - [[Elbisborg]]
     - [[Førnheller]]
+    - [[Ilm's Watch]]
     - [[Klingeborn]]
     - [[Lygárnach]]
     - [[Maidenshrine]]

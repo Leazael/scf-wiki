@@ -1,8 +1,9 @@
 ---
 aliases: [Hermetic, Hermetic Philosopher, Hermetic Philosophers, Hermetic Dialectic]
 ---
-
 Hermetic philosophy is a branch of [[Natural Philosophy]] that studies the forces and phenomena often referred to as [[Magic]]. Hermetic philosophy was developed in the wake of the [[Revelationary Revolution|Apocalyptic Revolution]] and in particular the [[Warlock's Revolt]].
+
+Most Hermetic Philosophy has been developed at the [[College of Elbisborg]], which boasts the only formal department of Hermetic Philosophy. Nonetheless, informal groups studying Hermetic Philosophy have also formed around the other [[University|Universities]], and some independent [[Hermetic Lodge|Hermetic Lodges]] dedicated to its study have appeared as high-society clubs.
 
 Practitioners and students of Hermetic Philosophy have formed a corpus of research not only detailing the practice and development of hermetic spells, but also providing a framework that can be used to study other mortal magical traditions, such as [[Wild Magic]], the [[Ways and Means]] practiced by craftsmen and artificers, and even [[Tel Varesh|Vareshian]] [[Thaumaturgy]].
 
@@ -26,8 +27,8 @@ Some [[Ways and Means|Artisinal Ways]] work in a similar manner. When the underl
 For the [[Natural Philosophy|Natural-Philosophical]] wizard, this Dialectic is also of a [[Natural Philosophy|Natural-Philosophical]] nature and relies entirely on the wizard's capacity to effectuate the [[Dialectic]]. However, correctly internalizing the concepts necessary for an internal philosophical [[Dialectic]] requires many years of education and self-study.
 
 # Practice
+M
+
 Hermetic philosophers are known to summon [[Transliminal magic|Extraplanar]] entities in complicated rituals that consume large amounts of Hermetically enriched [[Miasma]], and are often steeped in the trappings of [[Esoteric Iomedaeism]].
 
 The study of Hermetic Philosophy can lead to rather eccentric modes of thought. The formation of these is often metaphorically described as the [[Chapel at the Abyss]]
-
-

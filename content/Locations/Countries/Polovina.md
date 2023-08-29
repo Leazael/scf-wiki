@@ -1,5 +1,5 @@
 ---
-aliases: [Polivian, Grand Duchy, Grand Duchy of Polovina]
+aliases: [Polovian, Grand Duchy, Grand Duchy of Polovina]
 ---
 ### Summary
 The Grand Duchy of Polovina is a country formed from the former [[Lethania|Lethanian]] provinces of [[Fenwald]] and [[Væringard]] and sizable parts of [[Thurandir]] after the [[Lethanian War of Separation]]. It was later expanded to include areas formerly part of south-eastern [[Las]], in particular [[Pyelchek]].

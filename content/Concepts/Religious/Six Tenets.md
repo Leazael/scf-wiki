@@ -13,10 +13,10 @@ This tenet prohibits stealing, though it is commonly interpreted to also prohibi
 This tenet prohibits lying and oath breaking.
 
 ### Thou shalt not enslave
-This tenet prohibits the taking of slaves and even makes sure that serfs are allowed a certain degree of freedom, if only the freedom to leave. It also prohibits the manipulation of another's mind through charms and compulsions. Finally, it protects the bodies and souls of the dead from [[Necromancy]].
+This tenet prohibits the taking of slaves. It also generally interpreted as prohibiting the manipulation of another's mind through [[Enchantment|Enchantments]] ass well as protecting the bodies and souls of the dead from [[Necromancy]].
 
 ### Thou shalt not honour any gods above me
 This tenet is commonly interpreted as the prohibiting of worshipping other gods. It does not prohibit the veneration of spirits and ancestors.
 
-### Thou shalt watch over thine kin and kind
-This tenet protects members of the community from harmful neglect and outside dangers. It also mandates a certain amount of charity from those that can afford it.
+### Thou shalt shield thine kin from neglect and harm
+This tenet protects members of the community from harmful neglect and outside dangers. Interpretations often also mandate a certain amount of charity from those that can afford it.

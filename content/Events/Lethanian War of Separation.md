@@ -1,7 +1,7 @@
 ---
 aliases: [Secessian War, Provincial War, Great War, Great Philosophical War]
 ---
-The Lethanian War of Separation, sometimes called the [[Polovina|Polivian]] Secession War, the Provincial War or simply the Great War, was a war that devastated the[[Crucible]] from the summer of 1742 AF until the fall of 1745 AF. 
+The Lethanian War of Separation, sometimes called the [[Polovina|Polovian]] Secession War, the Provincial War or simply the Great War, was a war that devastated the[[Crucible]] from the summer of 1742 AF until the fall of 1745 AF. 
 
 The war started as a dispute between the [[Lethania|Lethanian]] provinces of [[Fenwald]] and [[Væringard]] on one side, and the southern provinces [[Yrsingen]], [[Hèrlmersc]] and [[Averion]] on the other side. The direct cause was a disagreement over the institution of [[Revelationary Revolution|Apocalyptic]] reforms in the wake of the [[Revelationary Revolution]].
 
@@ -38,7 +38,7 @@ In 1742 the south  [[Lethania|Lethanian]] provinces officially seceded, starting
 
 The war quickly devolved into a long, drawn out trench-war conflict, with the main trenches lying between [[Hèrlmersc]] and [[Væringard]], stretching from the [[Fomorian Mountains]] to [[Holmgard]], and a smaller secondary front between [[Maidenshrine]] and the [[Myriad Mountains]].
 
-In 1743, [[Thurandir]] loses its neutrality after an invasion by [[Fenwald]]. In the meanwhile, [[Ilmbund]] aggressively invades eastern [[Arcadia]] along the [[Myrk]]. The heavy shelling causes a catastrophic explosion at the [[Miasma]] refineries in [[Aldsbury]], leading to the [[Rainbow Blaze of Aldsbury]]. In the same period, mass fighting erupts in [[Holmgard]], with whole neighbourhoods barricading themselves and pitting themselves against other neighbourhoods. The fight is interrupted when [[Holmgard]] [[Cacotopic Warp|Pivots]] for the second time in history.
+In 1743, [[Thurandir]] loses its neutrality after an invasion by [[Fenwald]]. In the meanwhile, [[Ilmbund]] aggressively invades eastern [[Arcadia]] along the [[Myrk]]. The heavy bombing campaigned caused a catastrophic explosion at the [[Miasma]] refineries in [[Aldsbury]], leading to the [[Rainbow Blaze of Aldsbury]]. In the same period, mass fighting erupts in [[Holmgard]], with whole neighbourhoods barricading themselves and pitting themselves against other neighbourhoods. The fight is interrupted when [[Holmgard]] [[Cacotopic Warp|Pivots]] for the second time in history.
 
 In the spring of 1744, [[Dvårgheim|Dvårgian]] troops arrive in [[Thurandir|Thurandir’s]] capital [[Klingeborn]], and remove both [[Corridor]] and [[Allied Forces|Allied]] troops. With the fighters being forced out of the city, a second trench line is formed between between [[Klingeborn]] and [[Yrsingen]].
 

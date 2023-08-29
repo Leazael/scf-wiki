@@ -9,13 +9,13 @@ The capital of Ilmbund is the city if [[Sälen]], which is notable from having a
 In recent years, after the events leading up to and including the [[Thanatogenic Ghost Storm]] in 1761, the country has expanded past the [[Raubmaul]] into what was formerly [[Yádor]]. The  [[Echsee]] in particular has in the last decade swiftly grown from a colonial encampment to a prosperous city.
 
 # History
-The history starts with that of the ancient city that gave it its name: [[Ilm’s Watch]]. The prosperity that followed the founding of the state of [[Lethania]] in 0 AG, led to the growth that caused the city-state of [[Ilm’s Watch]] to expanded greatly as well. In 230 AF, the city pronounced its hegemony over the neighbouring petty kingdoms and became the newly founded kingdom of Ilm.
+The history starts with that of the ancient city that gave it its name: [[Notes/Locations/Cities/Ilm's Watch]]. The prosperity that followed the founding of the state of [[Lethania]] in 0 AG, led to the growth that caused the city-state of [[Notes/Locations/Cities/Ilm's Watch]] to expanded greatly as well. In 230 AF, the city pronounced its hegemony over the neighbouring petty kingdoms and became the newly founded kingdom of Ilm.
 
 By the 800s, the kingdom of Ilm had almost fully converted to the [[Church of Iomedae]]. It was not a suprise then, that when [[Arcadia]] launched the first [[Crusade]] in 822 - 831 AF, that Ilm was one of its staunchest allies. 
 
-Slow to respond, [[Nachýr]] launched its counter [[Crusade]] in1017 AF., a conflict that would last until 1021 AF. Not only did Tiamat march in force upon [[Arcadia]], she also personally laid waste to many of [[Arcadia|Arcadia’s]] most crucial allies, most notably during the [[Sack of Ilm's Watch]] in the winter of 1018 AF.
+Slow to respond, [[Nachýr]] launched its counter [[Crusade]] in1017 AF., a conflict that would last until 1021 AF. Not only did Tiamat march in force upon [[Arcadia]], she also personally laid waste to many of [[Arcadia|Arcadia’s]] most crucial allies, most notably during the [[Ilm's Watch|Sack of Ilm's Watch]] in the winter of 1018 AF.
 
-In the wake of the [[Sack of Ilm's Watch]], the city was utterly destroyed. What remained of the royal family settled in [[Dimmerschluß]].
+In the wake of the [[Ilm's Watch|Sack of Ilm's Watch]], the city was utterly destroyed. What remained of the royal family settled in [[Dimmerschluß]].
 
 During the third [[Crusade]] (1416 AF to 1424 AF), while attempting to leech of the war effort, the Royal House of [[Ilmbund|Ilm]] tried to sell its steel and iron to both sides of the conflict, a decision that brought the contempt of the common people on the Royal House, who were already despised for their decadence. 
 
