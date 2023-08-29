@@ -1,0 +1,1 @@
+The Vahestan Sea is a large bay and estuary that connects the [[Vahestan]] capital [[Ankhalabad]] with the [[Wilted Ocean]].
