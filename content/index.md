@@ -20,6 +20,7 @@ title: SCF-Wiki
     - [[Black Box]]
     - [[Elementary Philosophical Forces]]
     - [[Facsimile Machine]]
+    - [[Swivelbomb]]
     - [[Torque]]
   - Religious
     - [[Alatrism]]
@@ -73,6 +74,7 @@ title: SCF-Wiki
   - [[Reparation of '51]]
   - [[Revelationary Revolution]]
   - [[Secession of '37]]
+  - [[Silent War]]
   - [[Thanatogenic Ghost Storm]]
   - [[Treaty of Ölmfurt]]
   - [[War of Frozen Chains]]
@@ -195,4 +197,4 @@ title: SCF-Wiki
   - [[Lizardfolk]]
   - [[Treant]]
 
-Data: 166 pages completed, 79 in draft, 313 keywords.
+Data: 168 pages completed, 77 in draft, 313 keywords.
