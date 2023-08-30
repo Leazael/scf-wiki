@@ -1,15 +1,13 @@
 ---
 aliases: [Bondsmagi, Desmote]
 ---
-#draft 
-# Bondsmage
-(Bondsmagiër)
+Most often, "Bondsmage" is a term used to designate any [[Magus]] of the [[Shining Academy]]. These Bondsmagi used to form an international guild or cartel of [[Magic|mages]], who generally resided in their embassies in several big cities, until all embassies closed down in 1726, shortly after [[Holmgard]]'s first [[Cacotopic Warp|Pivoting]].
 
-Used to designate the diplomat-soldiers, or [[Magus|Desmotes]], of the [[Magic|magical]] [[Shining Academy]].
-Also used as a pars pro toto for all [[Magus|Magi]]. 
+The Bondsmagi were frequently portrayed as villains and bogeymen, and still are a common villain in many [[Kinescope]]-stories, often portrayed as the main antagonist in many [[Sophist]]-stories. This was for a good reason, as the Bondsmagi were known to abduct anyone who showed sufficient [[Magic|Magical]] talent, and often responded with deadly overwhelming force to any opposition. It is said that they even burned down an entire planet; [[Cinis]].
 
-The bondsmages are an international guild or cartel of mages, who generally reside in their embassies in several big cities. 
+The Bondsmagi are known to dress entirely in grey robes, as such, grey as a fashion colour is still eschewed by most cultures in the [[Crucible]].
 
-They are a frequently used boogeyman, that are alleged to steal naughty children and boil them into witches.
+What few remember is that the above usage is actually a pars pro toto, as a Bondsmage is specifically a member of the caste of diplomat-soldiers, or [[Magus|Desmotes]], of the [[Shining Academy]].
 
-Also used as a pars-pro
+
+

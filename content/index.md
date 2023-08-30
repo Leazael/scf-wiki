@@ -7,6 +7,7 @@ title: Index
   - Cultural
     - [[Chapel at the Abyss]]
     - [[Scabbard Cycle]]
+    - [[Sophist]]
   - Magical
     - [[Blood Oath]]
     - [[Enchantment]]
@@ -84,6 +85,7 @@ title: Index
   - [[Year Without Dawn]]
 - Factions
   - Bondsmagi
+    - [[Bondsmage]]
     - [[Magus]]
     - [[Shining Academy]]
   - Learning
@@ -106,11 +108,12 @@ title: Index
     - [[Church of Iomedae]]
     - [[Holy Order of Paladins]]
     - [[Holy Order of St. Alia]]
+    - [[Holy Order of St. Omelas]]
     - [[Inquisition]]
     - [[Orthodox Synodal Church of Iomedae]]
-    - [[Prophetic Choir of St. Omelas]]
     - [[Synod]]
     - [[Synodal Church of Iomedae]]
+  - [[Miliz]]
 - Languages
   - [[Draconic]]
   - [[Elvish]]
@@ -179,6 +182,7 @@ title: Index
   - [[Richaerd II]]
   - [[Rotwang the Brassman]]
   - [[Saint Alia]]
+  - [[St. Omelas]]
   - [[Thrjoská]]
   - [[Váida Khan]]
 - Sapients
@@ -197,4 +201,4 @@ title: Index
   - [[Lizardfolk]]
   - [[Treant]]
 
-Data: 168 pages completed, 77 in draft, 313 keywords.
+Data: 172 pages completed, 75 in draft, 315 keywords.

@@ -1,6 +1,4 @@
 # The Shining Academy
-(Schijnende Academie)
-
 The legendary [[Magic|Magical]] academy that is said to be the origin of the [[Bondsmage|Bondsmagi]]. Since the closing of the embassies in 1726, an event that coincided with the first [[Cacotopic Warp]] of [[Holmgard]], there has been very little interaction between the Academy and the [[Crucible]]. 
 
 The academy used to have Embassies in [[Holmgard]], [[Sosulka]], [[Chýrusandr]] and [[Tel Varesh]]. While the former three were evacuated and closed in the wake of the first [[Cacotopic Warp]], however, the latter was absorbed by the [[High-Schul of Tel Varesh]].

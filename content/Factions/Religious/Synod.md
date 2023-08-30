@@ -11,5 +11,5 @@ The Synod oversees all of the institutions tied to the [[Synodal Church of Iomed
 - The [[Inquisition]]
 - The [[Holy Order of Paladins]]
 - The [[Holy Order of St. Alia]]
-- The [[Prophetic Choir of St. Omelas]]
+- The [[Holy Order of St. Omelas]]
 and many others.

@@ -6,4 +6,4 @@ The Order of St. Alia is not particularly large counts 144 members. The order is
 
 Members of the Order of St. Alia generally hold a secondary "cover" position within the church, such as layman, [[Holy Order of Paladins|Paladin]] or even [[Bishop]].
 
-They are occasionally called upon by the [[Prophetic Choir of St. Omelas]].
+They are occasionally called upon by the [[Holy Order of St. Omelas]].
