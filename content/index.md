@@ -55,7 +55,9 @@ title: Index
   - [[Blood Moth]]
   - [[Carrion Squid]]
   - [[Death's Head Monkey]]
+  - [[Ghoul]]
   - [[Gremlin]]
+  - [[Undead]]
 - Entities
   - [[Iomedae]]
   - [[King Under the Mountains]]
@@ -110,13 +112,20 @@ title: Index
     - [[Holy Order of St. Alia]]
     - [[Holy Order of St. Omelas]]
     - [[Inquisition]]
+    - [[Masked Priests]]
     - [[Orthodox Synodal Church of Iomedae]]
     - [[Synod]]
     - [[Synodal Church of Iomedae]]
   - [[Miliz]]
 - Languages
+  - [[Ancient Languages]]
+  - [[Celestial]]
   - [[Draconic]]
-  - [[Elvish]]
+  - [[Elven]]
+  - [[Lingua Alta]]
+  - [[Niyezian]]
+  - [[Orkish]]
+  - [[Sosulkan]]
 - Locations
   - Celestial
     - [[Elsar]]
@@ -133,6 +142,7 @@ title: Index
     - [[Maidenshrine]]
     - [[Ornsheill]]
     - [[Sosulka]]
+    - [[Tel Varesh]]
     - [[Zolushka]]
   - Countries
     - [[Arcadia]]
@@ -146,6 +156,7 @@ title: Index
     - [[Nichija-Zembla]]
     - [[Polovina]]
     - [[Thrjoskarland]]
+    - [[Vareshian Commonwealth]]
     - [[Voyvetera]]
     - [[Yádor]]
   - Geography
@@ -158,8 +169,10 @@ title: Index
   - Provinces
     - [[Averion]]
     - [[Fenwald]]
+    - [[Lethanian Colonies]]
     - [[Step-Stone Isles]]
     - [[Thurandir]]
+    - [[Vareshian Colonies]]
     - [[Væringard]]
     - [[Yrsingen]]
   - [[Cacotopic Warp]]
@@ -199,6 +212,7 @@ title: Index
   - [[Human]]
   - [[Kovold]]
   - [[Lizardfolk]]
+  - [[Ork]]
   - [[Treant]]
 
-Data: 172 pages completed, 75 in draft, 315 keywords.
+Data: 186 pages completed, 66 in draft, 327 keywords.

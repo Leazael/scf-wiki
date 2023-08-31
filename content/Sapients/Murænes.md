@@ -1,5 +1,5 @@
 ---
-aliases: [Grindilow]
+aliases: [Grindilow, Murænen]
 ---
 #draft 
 Not actually related  to [[Merfolk]].

@@ -5,7 +5,7 @@ Half-elves stand taller than [[Human|Humans]] but shorter than [[Elf|Elves]]. Th
 
 While half-elves retain the pointed ears of [[Elf|Elves]], theirs are more rounded and less pronounced. Half-elves tend to have [[Human|Humanly]] shaped eyes, though the colouration often matches that of the [[Elf|Elven]] parent at the time of conception.
 
-While true half-elves are very rare, even more so than [[Elf|Elves]], people with [[Elf|Elven]] blood are still relatively common, since even individuals who are only 1/64th part [[Elf]] fall within this race more often than not. On top of this, many half-elves choose to marry other half-elves, hence there are many "pure" half-elves, who are only very distantly related to an actual elf.
+While true half-elves are very rare, even more so than [[Elf|Elves]], people with [[Elf|Elven]] blood are still relatively common, since even individuals who are only 1/64th part [[Elf]] often still look more [[Elf]] than [[Human]]. On top of this, many half-elves choose to marry other half-elves, hence there may be many "pure" half-elves, who are only very distantly related to an actual elf.
 
 # Life 
 Most half-elves, i.e., those with mostly [[Human]] blood, tend to age at a rate similar to humans, though are often slightly longer lived. In contrast, "pure" half-elves can have wildly varying life spans, with some living up to  400 years, and some dying of old age at 100.

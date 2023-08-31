@@ -1,0 +1,3 @@
+Ghouls are a type of [[Undead]] that plague the tombs and ossuaries of [[Tel Varesh]] and other cities of the [[Vareshian Commonwealth|Commonwealth]]. They are known to prey on sapient flesh, and may attack those foolish enough to visit the bone-orchards of the city alone and at night. 
+
+The supposedly posses a measure of intelligence, and stories exist of benevolent ghouls still serving their families in death, albeit for a bloody price. 

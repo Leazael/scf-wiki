@@ -1,5 +1,5 @@
 ---
-aliases: [Cavorite, Cavorinium, Kavor]
+aliases: [Kavor, Kavorite]
 ---
 Kavorinium, sometimes simply called Kavor, is a light, silver-white metal, with a [[Philosophical Index]] of 13.
 

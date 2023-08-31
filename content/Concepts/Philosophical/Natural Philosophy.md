@@ -27,3 +27,4 @@ aliases: [Philosopher, Philosophy, Philosophical, Philosophers, philosophically,
 [[Vocofax]]
 
 [[Kinescope]]
+[[Lingua Alta]]

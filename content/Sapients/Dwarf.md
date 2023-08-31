@@ -3,7 +3,7 @@ aliases: [Dwarves, Dwarven, Dwarvish]
 ---
 Dwarves are a short and stocky race, and stand about a foot or two shorter than most humans, with wide, compact bodies that account for their burly appearance. Male and female dwarves pride themselves on the long length of their hair, and men often decorate their beards with a variety of clasps and intricate braids. Females dwarves do not grow beards, but usually have pronounced sideburns. 
 
-Fiercely traditionalist and conservative, many dwarves still prefer to toil the hills and mountains for gems and minerals. These dwarves make their home in the [[Fomorian Mountains]] and of course [[Dvårgheim]]. It is said that the mountains bordering the [[Withershin Ocean]] in [[Izmoroz]] house a sizable dwarven community. Furthermore, it is reported that a sizable minority of the coastal cities in [[Thrjoskarland]] are made up of dwarves, as are the nomadic [[Thrjoská]] that roam that land.
+Fiercely traditionalist and conservative, many dwarves still prefer to toil the hills and mountains for gems and minerals. These dwarves make their home in the [[Fomorian Mountains]] and of course [[Dvårgheim]]. It is said that the mountains bordering the [[Widdersin Ocean]] in [[Izmoroz]] house a sizable dwarven community. Furthermore, it is reported that a sizable minority of the coastal cities in [[Thrjoskarland]] are made up of dwarves, as are the nomadic [[Thrjoská]] that roam that land.
 
 Throughout the last 100 years, several of the mines in the Fomorian Mountains have dried up, resulting in an influx of dwarves seeking labour in parts of [[Polovina]] and [[Lethania]].
 

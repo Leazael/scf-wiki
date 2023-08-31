@@ -3,7 +3,7 @@ aliases: [Blood Moths, Vampire Moth, Vampire Moths]
 ---
 Blood Moths are a common pest, native to [[Tel Varesh]] and the [[Vareshian Commonwealth]]. 
 
-They are known to bite [[Half-Ork|Orks]], [[Human|Humans]] and other Sapient species for their blood. Only [[Halfling|Halflings]] are known to eschewded by the blood sucking insects. 
+They are known to bite [[Ork|Orks]], [[Human|Humans]] and other sapient species for their blood. Only [[Halfling|Halflings]] are known to eschewed by the blood sucking insects. 
 
 Blood Moths can vary wildly in size, depending on their age, with the younger ones being no larger than a finger nail, and old brood-moths to have wing spans up to 8 cm.
 

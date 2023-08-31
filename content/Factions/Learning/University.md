@@ -11,6 +11,6 @@ The [[Academy of Weißenfels|Academy]] is known for producing more applied [[Nat
 - The [[Seminary of Aldsbury]], in [[Aldsbury]], [[Arcadia]]. 
   Known for being primarily an institute of the [[Synodal Church of Iomedae|Synodal Church]], where priests receive their formal training, though it is renowned for being the foremost instutitute when it comes to the study of History.
   
-While not in the [[Crucible]] proper, the [[High-Schul of Tel Varesh|High-Schul]] of [[Tel Varesh]] has a reputation on par with the above institutions. 
+While not in the [[Crucible]] proper, the [[Exalted School of Tel Varesh|High-Schul]] of [[Tel Varesh]] has a reputation on par with the above institutions. 
 
 It should be noted that the legendary [[Shining Academy]] is not counted among the universities. 

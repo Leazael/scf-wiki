@@ -5,4 +5,4 @@ Goblins are a small, rarely taller than 3 ft., race of humanoids known for their
 
 Goblins are mainly native to [[Las]] and [[Izmoroz]].
 
-Due to their skin, and their many assume that Goblins may be related to [[Ork|Orcs]] [[Half-Ork|Half-Orcs]], however, they are in fact closely related to (and may be in fact the same species as) [[Halfling|Halflings]].
+Due to their skin, and their many assume that Goblins may be related to [[Ork|Orcs]], however, they are in fact closely related to (and may be in fact the same species as) [[Halfling|Halflings]].

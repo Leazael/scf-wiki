@@ -1,5 +1,5 @@
 ---
-aliases: [Grey Empire]
+aliases: [Grey Empire, Izmorozian]
 ---
 # Summary
 One of the [[Sosulkan]] countries together with [[Las]]. A large state on the western side of the [[Crucible]]. Has long resided in a medieval stasis, but has recently started a path of rapid progression since Czar [[Koschei the Deathless]] was succeeded by Czar [[Ivan I Czarovitch]].
@@ -10,10 +10,10 @@ The capital city [[Sosulka]] is after [[Holmgard]] perhaps the oldest city in th
 
 Izmoroz shares a border with the [[Vareshian Commonwealth|Commonwealth]] of [[Tel Varesh]], [[Nachýr]] (separated by the [[Nemedian Mountains]]); [[Dalriada]], [[Lethania]], [[Polovina]] (separated by the [[Fomorian Mountains]] and [[Las]], from which it is partially separated by the [[Czar's Crown Mountains]].
 
-The landlocked [[Blighted Sea]] (Venijnzee) yields edible fish, but the water is toxic.
+The landlocked [[Blightsea]] (Venijnzee) yields edible fish, but the water is toxic.
 
 # History
-In the year 574 AR (142 BF), west of the [[Fomorian Mountains]] at the shores of what is now called the [[Blighted Sea|Poisoned Sea]], a young commoner named [[Koschei the Deathless|Koschei]] rose to power among the humans settled in that region. Within 50 years he had carved out what would become the oldest empire in the [[Crucible]], [[Izmoroz]], and came to be known as [[Koschei the Deathless]].
+In the year 574 AR (142 BF), west of the [[Fomorian Mountains]] at the shores of what is now called the [[Blightsea|Poisoned Sea]], a young commoner named [[Koschei the Deathless|Koschei]] rose to power among the humans settled in that region. Within 50 years he had carved out what would become the oldest empire in the [[Crucible]], [[Izmoroz]], and came to be known as [[Koschei the Deathless]].
 
 Over the course of the next 150 years, [[Izmoroz]] expanded its borders until it started crossing the [[Fomorian Mountains]] to the north and the [[Nemedian Mountains]] to the south.
 
@@ -30,22 +30,22 @@ Every attempt of [[Koschei the Deathless|Koschei]] to reclaim these lands was me
 After a reign of a thousand years, [[Koschei the Deathless]], who was succeeded by an unknown nobleman, [[Ivan I Czarovitch]] in 1749. What has happened to [[Koschei the Deathless|Czar Koschei]] is remains a mystery.
 
 # Races
-Mainly [[Human|Humans]], though [[Troll|Trolls]], [[Ork|Orcs]], [[Goblin|Goblins]] and other monstrous humanoids are not uncommon. As such, Izmoroz has one of the highest populations of [[Half-Ork|Half-Orcs]] of any country in the [[Crucible]] proper, and only the [[Vareshian Commonwealth|Commonwealth]] of [[Tel Varesh]]  having more. 
+Mainly [[Human|Humans]], though [[Troll|Trolls]], [[Ork|Orcs]], [[Goblin|Goblins]] and other monstrous humanoids are not uncommon. As such, Izmoroz has one of the highest populations of [[Ork|Half-Orcs]] of any country in the [[Crucible]] proper, and only the [[Vareshian Commonwealth|Commonwealth]] of [[Tel Varesh]]  having more. 
 
 As nearly everywhere, [[Elf|elves]] and [[Half-Elf|half-elves]] are rare.
 
 Since the [[Nachýrian Exodus]] in 1769 a sizable minority of [[Kovold|Kobolds]] has entered the country and are living in encampents and slums outside of many large cities.
 
-Some [[Dwarf|dwarven]] clans still reside in the [[Fomorian Mountains]], on the border with [[Polovina]] as well as in the mountains near the [[Withershin Ocean]].
+Some [[Dwarf|dwarven]] clans still reside in the [[Fomorian Mountains]], on the border with [[Polovina]] as well as in the mountains near the [[Widdersin Ocean]].
 
 In the far north west, [[Halfling]] originating from [[Voyvetera]], across the [[Strait of Drakul]] make up as much as 10% of the population.
 
 # Religion
 Mainly [[Iomedae]] is worshipped, with most churches belonging to one of the [[Sosulkan Churches of Iomedae]], which is centrally organized from the capital [[Sosulka]]. A few scattered [[Asynodal Churches of Iomedae|Asynodal Churches]] can be found within [[Sosulka]], but virtually none outside.
 
-In the parts of Izmoroz nort-west of the [[Blighted Sea]], the [[Old Sosulkan Gods]] are still commonly worshiped, with some villages not even having heard of [[Iomedae]].
+In the parts of Izmoroz nort-west of the [[Blightsea]], the [[Old Sosulkan Gods]] are still commonly worshiped, with some villages not even having heard of [[Iomedae]].
 
-The [[Dwarf|dwarves]] in the [[Fomorian Mountains]] still venerate the [[Æsir]], though their western cousins from near the [[Withershin Ocean]] worship their own, stranger gods.
+The [[Dwarf|dwarves]] in the [[Fomorian Mountains]] still venerate the [[Æsir]], though their western cousins from near the [[Widdersin Ocean]] worship their own, stranger gods.
 
 # Government
 Izmoroz is ruled autocratically by Czar [[Ivan I Czarovitch]], who despite his [[Natural Philosophy|philisophical]]  progressiveness, is not convinced of the merits of democracy. Most of the administration falls to the [[Boyar]], the aristocracy that has traidtionall governed Izmoroz.

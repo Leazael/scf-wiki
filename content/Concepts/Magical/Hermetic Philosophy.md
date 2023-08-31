@@ -27,8 +27,8 @@ Some [[Ways and Means|Artisinal Ways]] work in a similar manner. When the underl
 For the [[Natural Philosophy|Natural-Philosophical]] wizard, this Dialectic is also of a [[Natural Philosophy|Natural-Philosophical]] nature and relies entirely on the wizard's capacity to effectuate the [[Dialectic]]. However, correctly internalizing the concepts necessary for an internal philosophical [[Dialectic]] requires many years of education and self-study.
 
 # Practice
-M
-
 Hermetic philosophers are known to summon [[Transliminal magic|Extraplanar]] entities in complicated rituals that consume large amounts of Hermetically enriched [[Miasma]], and are often steeped in the trappings of [[Esoteric Iomedaeism]].
 
-The study of Hermetic Philosophy can lead to rather eccentric modes of thought. The formation of these is often metaphorically described as the [[Chapel at the Abyss]]
+The study of Hermetic Philosophy can lead to rather eccentric modes of thought. The formation of these is often metaphorically described as the [[Chapel at the Abyss]]. 
+
+Much of the language used by Hermetic Philosphers is derived from the [[Alchemy|Alchemical]] [[Natural Philosophy|Philosophies]], and despite disavowing any association with the [[Shining Academy]], uses many terms directly from [[Lingua Alta]]. 

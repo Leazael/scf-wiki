@@ -1,14 +1,13 @@
 ---
 aliases: [Ancestors, Ancestor Worship]
 ---
-# Veneration of the Dead
 The Veneration of the Dead is a religious practice practiced by many cultures of the forge.
 
-## Sainthood in the [[Church of Iomedae]]
+# Sainthood in the [[Church of Iomedae]]
 Within the [[Church of Iomedae]], particular devout or heroic faithful may be venerated as [[Saint|Saints]]. The worship of these saints is often regional, with the exception of the [[Twelve Paladins]]. People may pray to these [[Saint|Saints]] to intercede on their behalf with [[Iomedae]] herself.
 
-## [[Half-Ork|Half-Orcs]] of the [[Crucible]]
-[[Half-Ork|Half-Orcish]] communities through the [[Crucible]] also practice the Veneration of the Dead.
+# [[Half-Ork|Half-Orcs]] of the [[Crucible]]
+[[Ork|Half-Orcish]] communities through the [[Crucible]] also practice the Veneration of the Dead.
 
 The [[Half-Ork|Half-Orcish]] religious traditions revolve around two main principles. The first is that all [[Half-Ork|Half-Orcs]] are members of one unified family. As such practitioners are expected to extend charity to any [[Half-Ork]], as if they were kin. The second is that the ancestors, both malign and benevolent, keep watching over their descendants after death and play a large role in the lives of any [[Half-Ork]]. These ancestors are worshipped to ensure the ancestors' continued well-being and positive disposition towards the living, and sometimes to ask for special favours or assistance
 
@@ -22,8 +21,11 @@ During the lasts week before mid-winter, it is common to light a candles each da
 
 Usually, each family has a large book that contains the family tree, as well as tales and songs relating to that family. During weddings it is common to add the branches of the newly-weds to the other family's tree.
 
+# [[Tel Varesh]]
+The [[Human|Humans]] and [[Ork|Orks]] of [[Tel Varesh]] and the [[Vareshian Commonwealth]] hold many of the beliefs in common with the [[Half-Ork|Half-Orks]] described above. However, the veneration of the dead is not restricted to those of [[Ork|orkish]] descent. 
 
-## [[Tel Varesh]]
-The people of [[Tel Varesh]] and the [[Vareshian Commonwealth]] hold many of the beliefs in common with the [[Half-Ork|Half-Orcs]] described above. However, the veneration of the dead is not restricted to those of [[Half-Ork|orcish]] descent. 
+The [[Tel Varesh|Vareshians]] often keep tombs and ossuaries to guard to bones of esteemed family members.
 
-Furthermore, in [[Tel Varesh]], one set of ancestors are universally venerated, often referred to as the [[Primal Ancestors]], who are served by a mysterious masked priesthood.
+Those who wish to become revered ancestors themselves, may sometimes offer themselves up after death to become [[Undead]] guardians of the family crypts. These [[Necromancy|necromantic]] practices are often frowned upon in the [[Crusade|east]].
+
+Furthermore, in [[Tel Varesh]], one set of ancestors are universally venerated, often referred to as the [[Primal Ancestors]], who are served by a mysterious [[Masked Priests|masked priesthood]].

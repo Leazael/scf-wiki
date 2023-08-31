@@ -1,0 +1,3 @@
+The Ancient Languages are those languages that were known to be spoken on the [[Previous World]] before the [[Rupture of the Æther]]. Usually these languages are listed as: [[Elven]], [[Celestial]] and [[Draconic]]. 
+
+[[Lingua Alta]] is sometimes mistaken for one of these languages, however, that language is a construct of the early [[Shining Academy]] and borrowed much from probably older languages.

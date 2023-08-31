@@ -1,6 +1,8 @@
+Verheven School?
+
 #draft
 
-# High-School of Tel Varesh
+
 The High-School of Tel Varesh is the pre-emptive school of higher learning in [[Tel Varesh]] and the [[Vareshian Commonwealth]] and is one of the few [[University|Universities]] in the [[Crucible]]
 
 
@@ -16,3 +18,5 @@ The pre-emptive school of higher learning. [[Tel Varesh]]
 Good relationship with [[Shining Academy]]. Teaches [[Magic]]. [[Thaumaturgy]]
 
  eleven noble arts
+
+[[Lingua Alta]]

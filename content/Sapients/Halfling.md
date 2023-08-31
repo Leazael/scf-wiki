@@ -11,8 +11,6 @@ A halfling's ears are pointed, but proportionately not much larger than those of
 
 Halflings are closely related to (and may in fact be the same species as) [[Goblin|Goblins]]. In fact, in [[Tel Varesh]], halflings are often referred to as Hobgoblins. When suffering from malnourishment, their skins tend to take on a sickly green colour, making them all but indistinguishable from their [[Goblin]] cousins.
 
-*Halflings, while similar to Tolkien's Hobbits, also contain many influences from Romani and Mongolian cultures, as well as the dinosaur-riding characteristics from the Eberron Campaign Setting. Halflings often have Romani names.*
-
 ### Life
 Since nearly all Halflings in the [[Crucible]] are descendant from the [[Yádor|Yádorian]] nomads, many halflings tend to travel often and far, taking their dinosaur-pulled carnaval/caravans with them. Throughout a halfling's life, it is not uncommon to settle for several years in a large city, sometimes within a pre-existing and ever-shifting halfling community, only to move out again after a decade or so. Many halflings enjoy urban life, but for many their wanderlust is too deeply anchored to be ignored for ever.
 

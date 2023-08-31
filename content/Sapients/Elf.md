@@ -9,7 +9,7 @@ Since time immemorial, the High Elves and the [[Grey Elf|Grey Elves]] have been 
 
 Since the [[Elven Genocide]] in 1564, most elves have migrated to the [[Grey Elf|Grey Elven]] home-[[Planet]] [[Elsar]]. Ever since, elves have been extremely rare in the [[Crucible]], though wandering individuals or recluses can sometimes be found.
 
-Elves, amongst themselves, speak their own language, [[Elvish]].
+Elves, amongst themselves, speak their own language, [[Elven]].
 
 *The elves of SCF are mostly inspired by Sindar elves of Middle-Earth. With the Grey Elves particularly inspired by the Noldor.*
 

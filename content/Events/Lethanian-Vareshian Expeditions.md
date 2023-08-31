@@ -3,4 +3,4 @@
 [[Tel Varesh]]
 [[Lethania]]
 [[Murænia]]
-[[Murænai]]
+[[Murænes]]

@@ -22,7 +22,7 @@ In 1769, while [[Lethania|Lethanian]] and [[Arcadia|Arcadian]] borders were quic
 ### Races
 The population of the Polovina consists for the most part of [[Human|Humans]]. Both the eastern- and western-most parts have a sizable minority of [[Dwarf|Dwarves]], mainly the descendants of immigrants from [[Dvårgheim]] and the [[Fomorian Mountains]] respectively.
 
-In the formerly [[Las|Lassian]] areas near [[Pyelchek]] and [[Lagushka]], there are relatively more [[Half-Ork|Half-Orcs]].  
+In the formerly [[Las|Lassian]] areas near [[Pyelchek]] and [[Lagushka]], there are relatively more [[Ork|Half-Orcs]].  
 
 Polovina has harshly kept any migrating [[Kovold|Kobolds]] away from its borders, following the [[Nachýrian Exodus]] in 1769.
 

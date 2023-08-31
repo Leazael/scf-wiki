@@ -35,7 +35,7 @@ In 1749, [[Lethania]] tries to strengthen its war-damaged economy by formally ac
 
 In the following years, due to the increased traffic between Lethania and its [[Lethanian Colonies|colonies]], Lethania first encounters the countries [[Murænia]], as wel as the [[Vareshian Commonwealth]]. 
 
-Seemingly unprovoked, the [[Murænai]] take offence to the existence of the Lethanian vessels in the [[Tagelsea]], and in the winter of 1754, the [[Murænai]] attack the Lethanian Capitol of [[Eldmere]], in an event called the [[Massacre of Eldmere]]. In response to the tens-of-thousands of dead, Lethania joins forces with [[Tel Varesh]], who open their first embassy in [[Eldmere]] in the same year. 
+Seemingly unprovoked, the [[Murænes]] take offence to the existence of the Lethanian vessels in the [[Tagelsea]], and in the winter of 1754, the [[Murænes]] attack the Lethanian Capitol of [[Eldmere]], in an event called the [[Massacre of Eldmere]]. In response to the tens-of-thousands of dead, Lethania joins forces with [[Tel Varesh]], who open their first embassy in [[Eldmere]] in the same year. 
 
 Over the years, Lethania nad [[Tel Varesh]] would launc several [[Lethanian-Vareshian Expeditions]] in the hopes of eleminating the [[Murænia|Murænian]] threat. In 1764, they officially end their joint expiditions, though the countries remain allies.
 
@@ -54,7 +54,7 @@ Since the [[Lethanian War of Separation]] (1742 - 1745), Lethania has been gover
 
 In the past, rulership of Lethania (when still unified with modern day [[Polovina]]) was determined by the [[Great Joust]]. The Joust still exists, but now only functions as a feast day.
 
-Lethania has close ties with both [[Ilmbund]] and the [[Vareshian Commonwealth|Commonwealth]] of [[Tel Varesh]]. Together with the latter, they organized the [[Lethanian-Vareshian Expeditions]] as part of their war against the [[Murænai]].
+Lethania has close ties with both [[Ilmbund]] and the [[Vareshian Commonwealth|Commonwealth]] of [[Tel Varesh]]. Together with the latter, they organized the [[Lethanian-Vareshian Expeditions]] as part of their war against the [[Murænes]].
 
 
 

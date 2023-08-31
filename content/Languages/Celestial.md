@@ -1,6 +1,3 @@
-#draft 
-The language used in the original [[Iomedaean Canon]].
-Still in important language in the [[Church of Iomedae]].
-Sessions of the [[Synodal Church of Iomedae]]/[[Synod]] are held in Celestial.
+Celestial is one of the few known truly [[Ancient Languages]]. It is the language used for the original [[Iomedaean Canon]], and as such is still taught to students of the [[Church of Iomedae]]. Sessions of the [[Synod]] still use Celestial as a lingua franca.
 
-The [[Orcish]] and [[Vareshian]] languages use the alfphabet.
+The [[Orkish]] and [[Niyezian]] languages use a right-to-left transposition of the Celestial alfphabet, but do not share its grammar or pronunciation.

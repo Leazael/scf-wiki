@@ -2,7 +2,7 @@ Elbisborg is the oldest city in the nation of [[Ilmbund]], though it was younger
 
 The city is famous for the great [[Walls of Elbisborg]], which delineate the centres of the city from its sprawling suburbs.
 
-The city is home to the [[College of Elbisborg]] which is the oldest of the [[University|Universities]] in the [[Crucible]] (though younger still than the [[High-Schul of Tel Varesh]]). 
+The city is home to the [[College of Elbisborg]] which is the oldest of the [[University|Universities]] in the [[Crucible]] (though younger still than the [[Exalted School of Tel Varesh]]). 
 
 Possibly due to the interference of the [[Alchemy|Alchemists]] of the [[College of Elbisborg|College]], the city is home to several strange species that cannot be found elsewhere in the forge. Among these species are the [[Snicket Owl|Snicket Owls]] and [[Sucker-Ivy]].
 

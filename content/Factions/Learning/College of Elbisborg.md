@@ -1,7 +1,7 @@
 ---
 aliases: [College]
 ---
-The College of [[Elbisborg]] is the pre-eminent place of learning in [[Ilmbund]], and is he oldest of the [[University|Universities]] in the [[Crucible]] (though younger still than the [[High-Schul of Tel Varesh]]).
+The College of [[Elbisborg]] is the pre-eminent place of learning in [[Ilmbund]], and is he oldest of the [[University|Universities]] in the [[Crucible]] (though younger still than the [[Exalted School of Tel Varesh]]).
 
 The college is principally build against the [[Göllnyr Mountains|cliffs]] between the inner two [[Walls of Elbisborg|Walls]], and consists of a series halls and tall interlocking towers, stretching over the [[Walls of Elbisborg|Walls]] to either side.
 

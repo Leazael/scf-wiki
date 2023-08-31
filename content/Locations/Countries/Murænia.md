@@ -9,7 +9,8 @@ Close to [[Nachýr]]
 [[Lethania]]
 [[Vareshian Commonwealth]]
 [[Tel Varesh]]
-[[Murænai]]
+[[Murænes]]
 [[Aboleth]]
 
 Do weird things with [[Undead]] and [[Necromancy]]
+Presumed uninhbatied. Until the expiditians ...

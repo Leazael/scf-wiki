@@ -10,7 +10,7 @@ Ever since, these [[Princesses of Las|princesses]] have ruled the various city-s
 
 [[Lagushka]] and [[Pyelchek]] used to be Lassian territories, but after the disappearance of the [[Princesses of Las|princesses]], they have ben annexed by [[Polovina]].
 
-The primary language of Las is [[Sosulkan]], though [[Ildarin]] is often spoken near the border with [[Polovina]]. 
+The primary language of Las is [[Sosulkan]], though [[Ildarin]] is often spoken as a secondary language near the border with [[Polovina]]. 
 
 While Las does not have a centralized government, its largest city, [[Yutzenka]] is often considered the de-facto capital, as the [[Princesses of Las|Princess]] of [[Yutzenka]] is sometimes willing to speak on behalf of her "sisters".
 
