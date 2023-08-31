@@ -122,6 +122,7 @@ title: Index
   - [[Celestial]]
   - [[Draconic]]
   - [[Elven]]
+  - [[Ildarin]]
   - [[Lingua Alta]]
   - [[Niyezian]]
   - [[Orkish]]
@@ -169,6 +170,7 @@ title: Index
   - Provinces
     - [[Averion]]
     - [[Fenwald]]
+    - [[Hèrlmersc]]
     - [[Lethanian Colonies]]
     - [[Step-Stone Isles]]
     - [[Thurandir]]
@@ -199,6 +201,7 @@ title: Index
   - [[Thrjoská]]
   - [[Váida Khan]]
 - Sapients
+  - [[Boazulmoš]]
   - [[Dragon]]
   - [[Dwarf]]
   - [[Elf]]
@@ -215,4 +218,4 @@ title: Index
   - [[Ork]]
   - [[Treant]]
 
-Data: 186 pages completed, 66 in draft, 327 keywords.
+Data: 189 pages completed, 62 in draft, 326 keywords.

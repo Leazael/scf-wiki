@@ -1,4 +1,3 @@
-# Averion
 The province of Averion is the smallest province of [[Lethania]], having lost much territory to [[Arcadia]] during the [[Lethanian War of Separation]]. Its largest city, [[Angelenpoort]] (formerly Angelport) is the largest seaport of [[Lethania]] is only outdone by the [[Arcadia|Arcadian]] city of [[Covenant]] in the [[Crucible]].
 
 It has however gained a large amount of land in the form of the [[Lethania|Lethanian]] [[Step-Stone Isles]], which it governs.

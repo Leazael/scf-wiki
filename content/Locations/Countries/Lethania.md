@@ -25,7 +25,7 @@ In 1656 AF, against the wishes and wisdom of [[Lethania]] and Ilmbund, Arcadia l
 
 Despite the [[Crusade|Crusades]] having formally ended, [[Arcadia]] still remained engrossed in a border conflict with [[Nachýr]] on the [[Step-Stone Isles]]. In 1729, Lethania, fed up again, intervened. A peace was again forced between [[Arcadia]] and [[Nachýr]], and a large part of the [[Step-Stone Isles]] became Lethanian territory.
 
-In 1731 the [[Revelationary Revolution]] that had broken out in [[Ilmbund]] the year before, reached the Lethanian province of [[Yrsingen]]. Under these new [[Revelationary Revolution|apocalyptic]] influences, the provinces [[Yrsingen]], [[Averion]] and [[Hèrlmersc]], as well as the capitol city of [[Holmgard]] quickly started democratizing. Furthermore, both [[Yrsingen]] and [[Hèrlmersc]] started rejecting the [[Synodal Church of Iomedae]] in favour of the newly founded [[Asynodal Churches of Iomedae]].
+In 1731 the [[Revelationary Revolution]] that had broken out in [[Ilmbund]] the year before, reached the Lethanian province of [[Yrsingen]]. Under these new [[Revelationary Revolution|apocalyptic]] influences, the provinces [[Yrsingen]], [[Averion]] and [[Hèrlmersc]], as well as the capital city of [[Holmgard]] quickly started democratizing. Furthermore, both [[Yrsingen]] and [[Hèrlmersc]] started rejecting the [[Synodal Church of Iomedae]] in favour of the newly founded [[Asynodal Churches of Iomedae]].
 
 In 1741, the winner of the [[Great Joust]], [[Vladimir Denris]] of [[Fenwald]] tried to revert  some of the [[Revelationary Revolution|apocalyptic]] changes the south had instituted. This was, however, met with fierce resistance resulting in the [[Lethanian War of Separation]].
 
@@ -35,7 +35,7 @@ In 1749, [[Lethania]] tries to strengthen its war-damaged economy by formally ac
 
 In the following years, due to the increased traffic between Lethania and its [[Lethanian Colonies|colonies]], Lethania first encounters the countries [[Murænia]], as wel as the [[Vareshian Commonwealth]]. 
 
-Seemingly unprovoked, the [[Murænes]] take offence to the existence of the Lethanian vessels in the [[Tagelsea]], and in the winter of 1754, the [[Murænes]] attack the Lethanian Capitol of [[Eldmere]], in an event called the [[Massacre of Eldmere]]. In response to the tens-of-thousands of dead, Lethania joins forces with [[Tel Varesh]], who open their first embassy in [[Eldmere]] in the same year. 
+Seemingly unprovoked, the [[Murænes]] take offence to the existence of the Lethanian vessels in the [[Tagelsea]], and in the winter of 1754, the [[Murænes]] attack the Lethanian capital of [[Eldmere]], in an event called the [[Massacre of Eldmere]]. In response to the tens-of-thousands of dead, Lethania joins forces with [[Tel Varesh]], who open their first embassy in [[Eldmere]] in the same year. 
 
 Over the years, Lethania nad [[Tel Varesh]] would launc several [[Lethanian-Vareshian Expeditions]] in the hopes of eleminating the [[Murænia|Murænian]] threat. In 1764, they officially end their joint expiditions, though the countries remain allies.
 

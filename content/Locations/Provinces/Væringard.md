@@ -1,5 +1,3 @@
-# Væringard
-
 Væringard is a mountainous former province of [[Lethania]] that together with [[Fenwald]] now forms the heartland of [[Polovina]].  Its capital, before the [[Lethanian War of Separation]] was [[Ornsheill]].
 
 Even before the [[Lethanian War of Separation]], [[Væringard]] possessed one of the most dominant armies of the [[Crucible]]. 

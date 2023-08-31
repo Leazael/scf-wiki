@@ -2,7 +2,6 @@
 # Anætherial Harmonic Resonance
 aliases: [Transaetherial Resonances, Anætherial Harmonic Resonance, Anætherial Harmonic Resonances, Anætherial Resonances]
 ---
-# Anætherial Harmonic Resonance
 Anætherial harmonic resonance is a name for the phenomenon by which the [[Resolite|Resolites]] of [[Facsimile Machine|Facsimile Machines]] interact with each other.
 
 When a [[Miasma]]-[[Holtzmann-Effect|induced]] [[Electricity|current]] is applied to a single [[Resolite]], it causes certain modal harmonies in the [[Resolite]]. Instantaneously, these modal harmonies can be also observed in any sufficiently isomorphic [[Resolite]]. 

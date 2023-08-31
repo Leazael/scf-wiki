@@ -7,7 +7,7 @@ Gnomes are highly individualistic and sometimes competitive creatures. They prid
 
 Despite their wild appearances, gnomes have much in common with [[Dwarf|Dwarves]], like their habitat and occasionally temperament. It has been known for the races to intermarry. 
 
-The Gnomes of the [[Crucible]], amongst themselves speak their own high-paced dialect of [[Ildarin]], [[Gnomic]].
+The Gnomes of the [[Crucible]], amongst themselves speak their own high-paced dialect of [[Ildarin]], [[Ildarin|Gnomic]].
 
 *Unlike the Pathfinder variant, gnomes have very little to do with the fey, and are instead more akin to dwarves. Gnomes are derived from the fairy-like mediaeval creatures and the Norse Svartálfar. They often have names that sound vaguely stuttering and German, Like Artimänner, Narniddin, Daldalena, etc.*
 

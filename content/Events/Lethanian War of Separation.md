@@ -30,7 +30,7 @@ After repeated attempts of the [[Synod]] to influence [[Corridor]] policies, the
 
 # Detailed Overview
 
-In 1731 the [[Revelationary Revolution]] that had broken out in [[Ilmbund]] the year before, reached the [[Lethania|Lethanian]] province of [[Yrsingen]]. Under these new [[Revelationary Revolution|apocalyptic]] influences, the provinces [[Yrsingen]], [[Averion]] and [[Hèrlmersc]], as well as the capitol city of [[Holmgard]] quickly started democratizing. Furthermore, both [[Yrsingen]] and [[Hèrlmersc]] started rejecting the [[Synodal Church of Iomedae]] in favour of the newly founded [[Asynodal Churches of Iomedae]].
+In 1731 the [[Revelationary Revolution]] that had broken out in [[Ilmbund]] the year before, reached the [[Lethania|Lethanian]] province of [[Yrsingen]]. Under these new [[Revelationary Revolution|apocalyptic]] influences, the provinces [[Yrsingen]], [[Averion]] and [[Hèrlmersc]], as well as the capital city of [[Holmgard]] quickly started democratizing. Furthermore, both [[Yrsingen]] and [[Hèrlmersc]] started rejecting the [[Synodal Church of Iomedae]] in favour of the newly founded [[Asynodal Churches of Iomedae]].
 
 In 1741, the winner of the [[Great Joust]] of 1740, [[Vladimir Denris]] of [[Fenwald]] tried to revert some of the [[Revelationary Revolution|apocalyptic]] changes the south had instituted. This was, however, met with fierce resistance.
 

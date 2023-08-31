@@ -1,7 +1,7 @@
 ---
 aliases: [Tel Vareshian, Varesh, Vareshian, Vershian Lagoon]
 ---
-Tel Varesh is a large city west of the [[Crucible]] and [[Izmoroz]], and the the de facto capitol of the [[Vareshian Commonwealth]]. In the [[Crucible|east]],  The name Tel Varesh is often used as a pars pro toto for the entire [[Vareshian Commonwealth|Commonwealth]].
+Tel Varesh is a large city west of the [[Crucible]] and [[Izmoroz]], and the the de facto capital of the [[Vareshian Commonwealth]]. In the [[Crucible|east]],  The name Tel Varesh is often used as a pars pro toto for the entire [[Vareshian Commonwealth|Commonwealth]].
 
 The city is build on a series of islands within the Vareshian Lagoon, a natural harbour on the coast of  the [[Widdersin Ocean]]. Notably, its inner city is constructed from white marble and dark granites, and is known for the hundreds of bridges, canals, connecting the many islands and separating the neighbourhoods.
 
