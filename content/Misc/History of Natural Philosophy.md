@@ -1,0 +1,21 @@
+The oldest of all philosophical disciplines is the study of [[Alchemy]]. While originally, a secretive and highly individualised science, some degree of formalism was attained when several [[Ilmbund|Ilmian]] [[Alchemy|Alchemists]] joined forces in 1604 AF to form the [[Guild of Alchemists|Great Guild of Alchemists]]. 
+
+Their discovery of the processes necessary for the safe harnessing of [[Miasma]], 30 years later, led to a sudden influx in wealth for the [[Guild of Alchemists|guild]], and kickstarted many new developments. Their influence culminated in them replacing guild of Blacksmiths in the [[Great Guilds of Ilmbund|]] in 1704 AF.
+
+The new power-source, and the large amounts of capital made available to the [[Alchemy|Alchemists]], led to a revolution in material sciences, from dyes, to metals, and the production of secondary fuels. In parallel, the availability of [[Miasma]] started a rapid industrialisation process in primarily [[Ilmbund]], with [[Arcadia]] and (a still unified) [[Lethania]] in its wake.
+
+The rapid industrialisation and the boom in trade brought on by  the new train system, starting in 1679 AF, led to a strong demand for a more rigorous international standard of measures and units, which was quickly satisfied by the [[Guild of Stonemasons]]. After the dissolution of the [[Guild of Stonemasons|Masons]], the task of preserving the standards of measurement has fallen to the [[Bunds-Office of Standards and Measurements]].
+
+Throughout the late 1600s and early 1700s, both the [[Academy of Weißenfels]] and the [[College of Elbisborg]], saw their natural philosophy departments more than quadruple. New departments were started, some focussed on new discoveries, and others focussed on the rediscovery of what was known to the [[Previous World|ancients]].
+
+The early 1700s also saw a sudden revolution in communication with the invention of [[Anætherial Resonance]] by means of [[Resolite|Resolites]], which led to the development of the [[Facsimile Machine]], and later (in the 1760s) to the [[Vocofax]] and [[Sonofax]]. 
+
+Around the same time, developments in clockwork and meta-clockwork led to the development of the first simple [[Ordinator|Ordinators]], which in turn enabled the construction of the first [[Automaton|Automatons]]. 
+
+Some philosophers at these academies eschewed the secrecy of the [[Great Guilds of Ilmbund|Great Guilds]] and focussed strongly on an open sharing of information. This change in attitude, pertaining to the mechanisms of power in the [[Crucible]], was in all likelihood the origin of what would later become the [[Revelationary Revolution|Apocalyptic Movement]] of the 1720s. 
+
+It was in the aftermath of this revolution, and specifically the concurrent [[Warlock's Revolt]], that led to Philosophy developing its first fundamental understanding of [[Magic]]. Soon after, [[Hermetic Philosophy]] became a quickly accepted branch of Natural Philosophy. 
+
+Since then, Natural Philosophy has progressed in leaps and bounds. New [[Alchemy|]] processes have been developed for the refining of [[Mythril]] and [[Kavorinium|Kavor]], leading to a new era of aviation technology; and the discovery of of [[Transcalorical Induction]] has made [[Electricity]] available to households on a new scale. [[Kinescope|Kinoscopes]] and [[Sonofax|Sonofaxes]] have even led to the development of entirely new forms of mass-media.
+
+Natural Philosophy has also seen its dark sides. For decades, the most noteworthy philosophical disaster was known as the [[Alchemy|Alchemical]] [[Blightfire of Elbisborg]] of 1707, and the subsequent outbreak of the [[Altpox]]. The [[Lethanian War of Separation]] saw a new horrors deployed, with [[Miasma]]-bombs, the terrifying [[Alchemy|Alchemical]]-rains, and the [[Rainbow Blaze of Aldsbury]] still etched in the minds of many veterans. However, the more recent discovery of [[Torque]], and the horrors of the [[Swivelbomb|Swivelbombs]] have brought the possibility of philosophical mass-deaths closer than ever.

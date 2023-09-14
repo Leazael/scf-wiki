@@ -17,10 +17,14 @@ title: Index
     - [[Ways and Means]]
     - [[Wild Magic]]
   - Philosophical
+    - [[Alchemy]]
     - [[Anætherial Resonance]]
+    - [[Automaton]]
     - [[Black Box]]
+    - [[Catastrophe Theory]]
     - [[Elementary Philosophical Forces]]
     - [[Facsimile Machine]]
+    - [[Natural Philosophy]]
     - [[Swivelbomb]]
     - [[Torque]]
   - Religious
@@ -187,6 +191,7 @@ title: Index
 - Misc
   - [[Altpox]]
   - [[Calendar]]
+  - [[History of Natural Philosophy]]
   - [[Sucker-Ivy]]
 - People
   - [[5555 Shattered Spears]]
@@ -218,4 +223,4 @@ title: Index
   - [[Ork]]
   - [[Treant]]
 
-Data: 189 pages completed, 62 in draft, 326 keywords.
+Data: 194 pages completed, 58 in draft, 333 keywords.

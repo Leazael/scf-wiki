@@ -4,6 +4,7 @@ aliases: [Summoning, Transliminal Communication]
 
 #draft
 Summoning
+[[Elemental Spirit]]
 Conjuration [[Magic]]
 [[Nine Parables]] [[Iomedaean Canon]] 
 [[Esoteric Iomedaeism]]

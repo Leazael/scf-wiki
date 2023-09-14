@@ -15,7 +15,7 @@ Most officially tallies put the death toll of the war in the low 20 millions, wi
 
 
 # The [[Natural Philosophy|Philosophical]] War 
-The great war was notable for the deployment of many new [[Natural Philosophy|Philosophical]] weapons, especially by the [[Corridor]] forces. It was also the first war in which rifles, grenades, artillery and other machine weaponry played a significant role.
+The great war was notable for the deployment of many new [[Natural Philosophy|Philosophical]] weapons, especially by the [[Corridor]] forces. It was also the first war in which [[FIrearm|rifles]], grenades, artillery and other machine weaponry played a significant role.
 
 Especially along the [[Ilmbund|Ilmian]]-[[Arcadia|Arcadian]] front, near the [[Myrk]] and the [[Dimmerwold]], the [[Great Guilds of Ilmbund|Great Guilds]] deployed many terrifying new weapons, ranging from powerful [[Miasma]]-bombs, to horrifying [[Alchemy|Alchemical]]-rain clouds. The most memorable of these attacks is the [[Rainbow Blaze of Aldsbury]], which nearly wiped the entire city of [[Aldsbury]] of the map.
 

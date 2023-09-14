@@ -1,3 +1,6 @@
+---
+aliases: [Black Boxes]
+---
 A Black Box is a [[Natural Philosophy|philosophical]] device, build from iterative layers of meta-clockwork. It is essentially a clockwork device of such an intricate and unobservable nature that its state is able to oscillate around the [[Catastrophe Theory|catastrophical limit]].
 
 These boxes are used to endow [[Automaton|Automatons]] with rudimentary, or even advanced, decision making capabilities, functioning essentially as the [[Automaton|Automaton’s]] brain.

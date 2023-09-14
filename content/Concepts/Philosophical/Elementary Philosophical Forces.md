@@ -9,4 +9,4 @@ aliases: []
 - [[Alchemy|Consumption]]
 - [[Hermetic Philosophy|Correspondence]]
 - [[Torque]] (Only Hypothesized)
-- Causality (Only Hypothesized);
+- Causality (Only Hypothesized, though possibly related to [[Anætherial Resonance|Anætherial Resonances]]);
