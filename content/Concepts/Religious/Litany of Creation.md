@@ -1,4 +1,4 @@
-The Litany of creation is an ancient [[Tel Varesh|Vareshian]] poem consisting of ten couplets, describing tweny of the recuriing archetypes in [[Tel Varesh|Vareshian]] culture. 
+The Litany of creation is an ancient [[Tel Varesh|Vareshian]] poem consisting of ten couplets, describing twenty recurring archetypes in [[Tel Varesh|Vareshian]] culture. 
 
 Together with the [[Seven Elements]] they considered provide a comprehensive description of matters both temporal and spiritual. References to the Litany often show up as part of [[Thaumaturgy|Thaumaturgical]] spells. 
 

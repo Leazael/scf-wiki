@@ -63,6 +63,7 @@ title: Index
   - [[Gremlin]]
   - [[Undead]]
 - Entities
+  - [[Angel]]
   - [[Iomedae]]
   - [[King Under the Mountains]]
   - [[Old Sosulkan Gods]]
@@ -226,4 +227,4 @@ title: Index
   - [[Ork]]
   - [[Treant]]
 
-Data: 197 pages completed, 55 in draft, 332 keywords.
+Data: 198 pages completed, 54 in draft, 332 keywords.
