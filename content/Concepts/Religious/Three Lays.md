@@ -12,7 +12,9 @@ The Lays themselves were supposedly written in the years after her apotheosis. I
 The first Lay narrates the foretelling and the birth of [[Iomedae]], and her early life as a shield-maiden.
 
 ### The Lay of Blood 
-The second Lay tells of a great [[Rupture of the Æther|cataclysm]] that tore the world asunder. It further describes how [[Iomedae]] and her [[Twelve Paladins]] stormed the heavens in an attempt to force the gods to take responsibility. The lay ends with the gods refusing to help, causing [[Iomedae]] to take action into her own hands. Wresting the divine power from the hands of the gods, she ascends to godhood and uses her newfound power to protect her people.
+The second Lay tells of a great [[Rupture of the Æther|cataclysm]] that tore the world asunder. It then deals with [[Iomedae]]'s rejection of the existing [[God|gods]], and her assault on the heavens, backed by her [[Twelve Paladins]]. At the start of the assault she discards her [[Scabbard of Iomedae|Scabbard]], vowing to slay all [[God|gods]] who oppose her. Having conquered the heavens though, she finds herself still filled with righteous wrath, symbolised by her unsheathed sword, and thus unable to become the [[God|god]] that her people need. In her final act of mercy she sheathes her sword in her own blood and flesh. This sacrifice is what results in her final apotheosis.
 
 ### Lay of Stone 
-The third and final Lay tells of the founding of the [[Church of Iomedae]] and the establishment of her priesthood. It is told from the viewpoint of the surviving [[Twelve Paladins]].
+The third and final Lay tells of the founding of the [[Church of Iomedae]] and the establishment of her priesthood. It is told from the viewpoint of the [[Twelve Paladins]].
+
+Throughout the [[Three Lays|Lay of Stone]] she appears in increasingly divine apparitions to the surviving [[Twelve Paladins|Paladins]]. Here she guides the greater [[Saint|Saints]] in the founding of the [[Church of Iomedae|Church]]. She also hands down the [[Six Tenets]], relates the [[Nine Parables]] and listens to the [[Three Lays]], which move her to tears. 

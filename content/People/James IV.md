@@ -1,5 +1,3 @@
-#draft 
-A former king of [[Arcadia]]. A staunch anti-[[Revelationary Revolution|Apocalyptic]] reactionery.
-His death made the [[White Revolution]] possible.
+James IV was the Priest-King of [[Arcadia]] from 1709 until his death in 1737. During the end of his reign, we was known for being a staunch anti-[[Revelationary Revolution|Apocalyptic]] reactionary.
 
-Succeeded by [[Mary VIII]].
+His death and succession by the Priest-Queen [[Mary VIII]] enabled a series of [[Revelationary Revolution|Apocalyptic]] reforms in both [[Arcadia]] and the [[Synod]], collectively known as the [[White Revolution]].

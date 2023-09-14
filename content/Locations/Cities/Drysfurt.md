@@ -1,5 +1,4 @@
 #draft 
-
 Capital city of [[Polovina]].
-Used to be in [[Fenwald]], [[Lethania]]
-[[Brukhov Family]] still very importan
+Used to be in [[Fenwald]], on the border with [[Væringard]] [[Lethania]]
+

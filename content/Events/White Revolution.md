@@ -1,4 +1,3 @@
-# The White Revolution 
 An internal revolution within the [[Synodal Church of Iomedae]] caused by the increased popularity of the [[Asynodal Churches of Iomedae]]. Can be compared to the Counterreformation. It often described as being either a part of, or a reaction to the larger [[Revelationary Revolution]].
 
 The White revolution started with a [[Revelationary Revolution|pro-apocalyptic]] mass protest in [[Covenant]] in 1735. The protest was quelled using secret operands for the [[Holy Order of St. Alia]]. 

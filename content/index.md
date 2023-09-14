@@ -168,6 +168,7 @@ title: Index
     - [[Crucible]]
     - [[Göllnyr Mountains]]
     - [[Myrk]]
+    - [[Rime Sea]]
     - [[Strait of Drakul]]
     - [[Vahestan Sea]]
     - [[Volkhov]]
@@ -198,6 +199,8 @@ title: Index
   - [[Elhandrur the Inane]]
   - [[Founders]]
   - [[Geirvaldr Skyhammer]]
+  - [[James IV]]
+  - [[Mary VIII]]
   - [[Merovitz]]
   - [[Richaerd II]]
   - [[Rotwang the Brassman]]
@@ -223,4 +226,4 @@ title: Index
   - [[Ork]]
   - [[Treant]]
 
-Data: 194 pages completed, 58 in draft, 333 keywords.
+Data: 197 pages completed, 55 in draft, 332 keywords.
