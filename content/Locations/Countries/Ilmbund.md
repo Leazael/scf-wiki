@@ -9,7 +9,7 @@ The capital of Ilmbund is the city if [[Sälen]], which is notable from having a
 In recent years, after the events leading up to and including the [[Thanatogenic Ghost Storm]] in 1761, the country has expanded past the [[Raubmaul]] into what was formerly [[Yádor]]. The  [[Echsee]] in particular has in the last decade swiftly grown from a colonial encampment to a prosperous city.
 
 # History
-The history starts with that of the ancient city that gave it its name: [[Notes/Locations/Cities/Ilm's Watch]]. The prosperity that followed the founding of the state of [[Lethania]] in 0 AG, led to the growth that caused the city-state of [[Notes/Locations/Cities/Ilm's Watch]] to expanded greatly as well. In 230 AF, the city pronounced its hegemony over the neighbouring petty kingdoms and became the newly founded kingdom of Ilm.
+The history starts with that of the ancient city that gave it its name: [[Ilm's Watch]]. The prosperity that followed the founding of the state of [[Lethania]] in 0 AG, led to the growth that caused the city-state of [[Ilm's Watch]] to expanded greatly as well. In 230 AF, the city pronounced its hegemony over the neighbouring petty kingdoms and became the newly founded kingdom of Ilm.
 
 By the 800s, the kingdom of Ilm had almost fully converted to the [[Church of Iomedae]]. It was not a suprise then, that when [[Arcadia]] launched the first [[Crusade]] in 822 - 831 AF, that Ilm was one of its staunchest allies. 
 

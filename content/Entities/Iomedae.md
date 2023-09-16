@@ -1,7 +1,7 @@
 ---
 aliases: [Iomedae, Iomedaen, Our Valiant Lady, Onze Koene Vrouwe]
 ---
-Iomedae is the singular [[God|deity]] of the [[Church of Iomedae]]. According the the [[Iomedaean Canon]], Iomedae was a mortal [[human]] shield maiden, who lived roughly 2500 years ago, presumably on the [[Previous World]]. She came into godhood during a cataclysm that is unnamed in [[Iomedaean Canon|The Canon]], but it is generally agreed upon that it refers to the [[Rupture of the Æther]].
+Iomedae is the singular [[God|deity]] of the [[Church of Iomedae]]. According the the [[Iomedaean Canon]], Iomedae was a mortal [[Human]] shield maiden, who lived roughly 2500 years ago, presumably on the [[Previous World]]. She came into godhood during a cataclysm that is unnamed in [[Iomedaean Canon|The Canon]], but it is generally agreed upon that it refers to the [[Rupture of the Æther]].
 
 ### Appearance
 While no description beyond "shield-maiden" is given as part of the [[Three Lays]] or any part of the [[Iomedaean Canon]], she is generally depicted as a fair-skinned, red-haired, golden-eyed human maiden. In fact, this description of Iomedae is considered dogma by the [[Synodal Church of Iomedae|Synodal Church]].  

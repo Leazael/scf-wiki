@@ -13,7 +13,7 @@ This story teaches about the importance of charity and the danger that wealth an
 This story establishes the importance of the rest day on Sun's Eve.
 
 # The Parable of the Sorcerer
-The interpretation of this story has caused a divide in the [[Synod]] and [[Church of Iomedae|church]] for a long time. One the one hand, it seems to tell about the dangers of [[Necromancy]] and the [[Transliminal Magic|summoning]] of outsiders. On the other hand, it can be interpreted as a warning against all non-priestly [[Magic]].The latter interpretation has gained a lot of popularity in [[Arcadia]] and the more superstitious parts of [[Las]] and [[Polovina]].
+The interpretation of this story has caused a divide in the [[Synod]] and [[Church of Iomedae|church]] for a long time. One the one hand, it seems to tell about the dangers of [[Necromancy]] and the [[Transliminal magic|summoning]] of outsiders. On the other hand, it can be interpreted as a warning against all non-priestly [[Magic]].The latter interpretation has gained a lot of popularity in [[Arcadia]] and the more superstitious parts of [[Las]] and [[Polovina]].
 
 # The Parable of the Knight-errant
 This story stresses the role that those with power have in the protection of the weak.

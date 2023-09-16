@@ -14,7 +14,7 @@ The Church and its worshippers actively worship only a single deity: [[Iomedae]]
 
 There are parts of the Church that believe that [[Magic]] not granted by the goddess is inherently sinful and evil, a belief that is particularly strong in many [[Asynodal Churches of Iomedae]].
 
-In communities that adhere to this belief, any witches, sorcerers and wizards, but also druids and sometimes even bards are hunted down, tried and burned. Even the parts of the church that are accepting of other spellcasters uniformly condemn the use of most [[Necromancy]], charm effects, compulsion effects and the [[Transliminal Magic|summoning]] of non-good outsiders (including [[Elemental Spirit|elementals]]). 
+In communities that adhere to this belief, any witches, sorcerers and wizards, but also druids and sometimes even bards are hunted down, tried and burned. Even the parts of the church that are accepting of other spellcasters uniformly condemn the use of most [[Necromancy]], charm effects, compulsion effects and the [[Transliminal magic|summoning]] of non-good outsiders (including [[Elemental Spirit|elementals]]). 
 
 The countries of [[Arcadia]] and [[Polovina]] have encompassed basically all tenets and rules from the Church into their laws.
 
