@@ -44,7 +44,7 @@ Abilities:
 - Endurance rolls to resist the effects of prolonged cold are one step harder; and their CON is halved for the purpose of calculating the time before cold exposure sets in.
 - Tail: A tail has hp equal to a leg. Hit Locations are 1-2 Tail, 3-4 Right Leg, 5-6 Left Leg, 7-9 Abdomen, 10-12 Chest, 13-15 Right Arm, 16-18 Left Arm and 19-20 Head.
 
-## Kozarn (Lizardfolk)
+## Lizardfolk (Kozarn)
 Movement Rate: 6m.
 Abilities:
 - Hold Breath

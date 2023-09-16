@@ -1,8 +1,18 @@
 ---
 title: Index
 ---
+# Mythras Character Creation
+For a guide to [[Character Generation]], click on the link, or jump directly to:
+- The [[Ancestral Characteristic Table]]
+- The [[Heights and Weights]]
+- [[Cultures]] and [[Subcultures]]
+- [[Brotherhoods and Cults]]
+- [[Magical Traditions]]
+
+
 ![[de_kroes_v2.png]]
-# Index:
+
+# Lore Index
 - Concepts
   - Cultural
     - [[Chapel at the Abyss]]
