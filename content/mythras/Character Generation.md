@@ -12,8 +12,10 @@ To derive heights and weights for non human characters, please consult the [[Hei
 # 2. Attributes
 First, look up any racial abilities and modifications to attributes from [[Ancestral Abilities]] that may apply. Then calculate the character's attributes as usual.
 
+
 # 3. Standard Skills
 Calculate the characters standard skills as usual.
+
 
 # 4. Culture 
 Players are encouraged to select one of the [[Cultures]], and optionally one of the [[Subcultures]], appropriate to the setting. After choosing the culture:
@@ -23,6 +25,7 @@ Players are encouraged to select one of the [[Cultures]], and optionally one of 
 - Allocate 100 points amongst the listed Standard Skills, the chosen Professional Skills and the Combat Style (if any).
 
 Note that players are expected to create their own combat styles together with the GM.
+
 
 # 5. Career 
 While most of the standard careers listed in the Core Rules or Imperative are available, players are encouraged to come up with their own careers (made by combining seven standard skills or combat styles, and seven professional skills), such as:
@@ -37,6 +40,7 @@ While most of the standard careers listed in the Core Rules or Imperative are av
 
 If you wish to play a career that makes use of magic, consult with the GM to create a tradition and skill set appropriate to the character and setting. If you wish to create a magical character, please consult with the GM to draft a suitable [[Magical Traditions|Magical Tradition]].
 
+
 # 6. Age and Bonus Skill Allocation 
 Every character gains an additional 150 points as normal during bonus skill allocation, and may allocate these with a maximum of 15 points per skill. 
 
@@ -47,6 +51,7 @@ Of course, characters may choose to make a character that is significantly young
 
 If a character wishes to make a character with significantly more or less experienced character, they must do so with the consent of the GM and the other players.
 
+
 # 7. Background and Passions
 Optionally, determine the characters Background evets, as well as the Social Class, Parents, Family Standing and Connections. Also determine the character's starting money from their social class.
 
@@ -56,11 +61,11 @@ based on two Characteristics, with a bonus of +40 to the first, +30 to the secon
 It is recommended that at least one of these passions ties into the players [[Brotherhoods and Cults|brotherhood or cult]] (see below).
 
 
-
 # 8. [[Brotherhoods and Cults]]
 Players are recommended to join at least one [[Brotherhoods and Cults|brotherhood or cult]], as they will generally provide the only way by which characters may advance outside of the usual experience rolls. 
 
 This is especially true for magical characters, as standing within a brotherhood and cult will determine access to new spells. (Unless the character decides to create their own tradition.)
+
 
 # 9. Equipment
 Determine starting equipment based on Social Class. Some modifications may be necessary depending on culture and setting.

@@ -1,5 +1,10 @@
-Players who wish to embrace a magical tradition are encouraged to work one out together with the GM. 
+Players who wish to embrace a magical tradition are encouraged to work one out together with the GM. Such a tradition will determine:
+- What skills will be needed to cast spells.
+- Whether ritualistic casting times apply to the tradition. 
+- MP regeneration rules (typical regeneration is 1 MP/ day, but most traditions will have ways of increasing this.)
+- What spells the character can select from.
 
+# Examples
 To provide some inspiration,  here is a non-exhaustive list of magical traditions that can be found in the world of the [[Crucible]]:
 - The [[Hermetic Philosophy]] or [[Alchemy]] studied by [[Natural Philosophy|Natural Philosophers]] have many traditions (e.g. [[Transliminal magic]]), depending on the guild of [[University]] where they are studied.
 - Independent [[Sophist|Sophists]] have created wonderous inventions that provide them with extraordinary abilities.
