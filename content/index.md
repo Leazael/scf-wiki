@@ -4,7 +4,7 @@ title: Index
 # Mythras Character Creation
 For a guide to [[Character Generation]], click on the link, or jump directly to:
 - The [[MITM|Most Important Table in Mythras]]
-- The [[Ancestral Characteristic Table]]
+- The [[Ancestral Characteristics Table]]
 - The [[Heights and Weights]]
 - [[Cultures]] and [[Subcultures]]
 - [[Brotherhoods and Cults]]
@@ -240,4 +240,4 @@ For a guide to [[Character Generation]], click on the link, or jump directly to:
 
 Data: 198 pages completed, 54 in draft, 333 keywords.
 
-Last updated 2023-09-16 23:46.
+Last updated 2023-09-16 23:47.
