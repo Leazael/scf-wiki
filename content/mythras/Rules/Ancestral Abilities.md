@@ -1,4 +1,4 @@
-![[Ancestral Characteristic Table]]
+![[Ancestral Characteristics Table]]
 
 ## [[Dwarf]] 
 Movement Rate: 4m.
