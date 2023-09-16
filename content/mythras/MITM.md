@@ -1,6 +1,4 @@
-The Most Important Table in Mythras
-
-|**Skill** |**Competence**|**Military *  |**Description**                                               |
+|**Skill** |**Competence**|**Military**  |**Description**                                               |
 |----------|--------------|--------------|--------------------------------------------------------------|
 | 1- 30%   |Novice        |Cannon Fodder |Unqualified student still learning the basics.                |
 |31- 50%   |Competent     |Green         |Can perform easy tasks if taking their time over it.          |

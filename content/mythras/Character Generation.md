@@ -1,5 +1,7 @@
 Characters will be generated using the usual Mythras character generation methods, except where noted otherwise.
 
+While creating your character, keep in mind the [[MITM|Most Important Table in Mythras]].
+
 # 1. Ancestry and Characteristics 
 Choose an ancestry that fits with the character concept. Depending on the time and place within the setting some ancestries may be more or less suitable as player choices. In particular, Elves are incredibly rare, and Dwarves and Lizardfolk are rarely found outside of their own communities. 
 
@@ -29,14 +31,14 @@ Note that players are expected to create their own combat styles together with t
 
 # 5. Career 
 While most of the standard careers listed in the Core Rules or Imperative are available, players are encouraged to come up with their own careers (made by combining seven standard skills or combat styles, and seven professional skills), such as:
-- Alchemist
+- [[Alchemy|Alchemist]]
 - Artificer
-- Banker
-- Natural Philosopher
-- Hermetic Philosopher
-- Miasma Worker 
-- Thaumaturge
-- Paladin
+- [[Guild of Bankers and Brokers|Banker]]
+- [[Natural Philosophy|Natural Philosopher]]
+- [[Hermetic Philosophy|Hermetic Philosopher]]
+- [[Miasma]] Worker 
+- [[Thaumaturgy|Thaumaturge]]
+- [[Holy Order of Paladins|Paladin]]
 
 If you wish to play a career that makes use of magic, consult with the GM to create a tradition and skill set appropriate to the character and setting. If you wish to create a magical character, please consult with the GM to draft a suitable [[Magical Traditions|Magical Tradition]].
 
