@@ -47,8 +47,15 @@ Of course, characters may choose to make a character that is significantly young
 
 If a character wishes to make a character with significantly more or less experienced character, they must do so with the consent of the GM and the other players.
 
-# 7. Background
+# 7. Background and Passions
 Optionally, determine the characters Background evets, as well as the Social Class, Parents, Family Standing and Connections. Also determine the character's starting money from their social class.
+
+Beginning are recommended to start with at least one, but up to to three Passions, each
+based on two Characteristics, with a bonus of +40 to the first, +30 to the second and +20 to the third as per the Imperative Rules. 
+
+It is recommended that at least one of these passions ties into the players [[Brotherhoods and Cults|brotherhood or cult]] (see below).
+
+
 
 # 8. [[Brotherhoods and Cults]]
 Players are recommended to join at least one [[Brotherhoods and Cults|brotherhood or cult]], as they will generally provide the only way by which characters may advance outside of the usual experience rolls. 
