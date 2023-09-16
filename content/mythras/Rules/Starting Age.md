@@ -1,4 +1,4 @@
-|Species |Starting Age |Young |Young Adult |Adult |Early Middle Age |Middle Age |Late Middle Age |Old Age | Advanced Old Age | Dotage |
+|Ancestry |Starting Age |Young |Young Adult |Adult |Early Middle Age |Middle Age |Late Middle Age |Old Age | Advanced Old Age | Dotage |
 |----------|-------------|-----------|------------|------|-----------------|-----------|----------------|--------|------------------|--------|
 |Dwarf|4d6+15 |20  |40  |70 |150  |200 |250  |300 |350  |400+ |
 |Elf[^*]|2d10+25 |35  |120  |250 |n/a  |n/a |n/a  |n/a |n/a  |n/a |
