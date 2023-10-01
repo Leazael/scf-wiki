@@ -9,7 +9,11 @@ For a guide to [[Character Generation]], click on the link, or jump directly to:
 - [[Cultures]] and [[Subcultures]]
 - [[Brotherhoods and Cults]]
 - [[Magical Traditions]]
-
+# Lore
+Collected Lore pages:
+- A full [[Timeline]] of notable events.
+- The [[Calender]] used by most cultures.
+- A brief [[History of Natural Philosophy]].
 
 ![[de_kroes_v2.png]]
 
@@ -33,6 +37,7 @@ For a guide to [[Character Generation]], click on the link, or jump directly to:
     - [[Automaton]]
     - [[Black Box]]
     - [[Catastrophe Theory]]
+    - [[Chrysopoeia]]
     - [[Elementary Philosophical Forces]]
     - [[Facsimile Machine]]
     - [[Natural Philosophy]]
@@ -82,23 +87,26 @@ For a guide to [[Character Generation]], click on the link, or jump directly to:
   - [[Saint]]
   - [[Æsir]]
 - Events
+  - Acocalyptic
+    - [[Revelationary Revolution]]
+    - [[Warlock's Revolt]]
+    - [[White Revolution]]
+  - Military
+    - [[Crusade]]
+    - [[Elven Genocide]]
+    - [[Lethanian War of Separation]]
+    - [[Peace of Weißenfels]]
+    - [[Rainbow Blaze of Aldsbury]]
+    - [[Silent War]]
+    - [[Treaty of Ölmfurt]]
+    - [[War of Frozen Chains]]
   - [[Blightfire of Elbisborg]]
-  - [[Crusade]]
-  - [[Elven Genocide]]
   - [[Gabel Pact]]
-  - [[Lethanian War of Separation]]
   - [[Nachýrian Exodus]]
-  - [[Peace of Weißenfels]]
-  - [[Rainbow Blaze of Aldsbury]]
+  - [[Ragnarǫk]]
   - [[Reparation of '51]]
-  - [[Revelationary Revolution]]
   - [[Secession of '37]]
-  - [[Silent War]]
   - [[Thanatogenic Ghost Storm]]
-  - [[Treaty of Ölmfurt]]
-  - [[War of Frozen Chains]]
-  - [[Warlock's Revolt]]
-  - [[White Revolution]]
   - [[Withering Blossoms]]
   - [[Year Without Dawn]]
 - Factions
@@ -203,8 +211,6 @@ For a guide to [[Character Generation]], click on the link, or jump directly to:
   - [[Quicksilver]]
 - Misc
   - [[Altpox]]
-  - [[Calendar]]
-  - [[History of Natural Philosophy]]
   - [[Sucker-Ivy]]
 - People
   - [[5555 Shattered Spears]]
@@ -238,6 +244,6 @@ For a guide to [[Character Generation]], click on the link, or jump directly to:
   - [[Ork]]
   - [[Treant]]
 
-Data: 198 pages completed, 54 in draft, 333 keywords.
+Data: 198 pages completed, 54 in draft, 331 keywords.
 
-Last updated 2023-09-17 00:00.
+Last updated 2023-10-01 23:42.

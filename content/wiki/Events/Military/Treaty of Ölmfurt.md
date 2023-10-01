@@ -1,0 +1,3 @@
+A mutual defence treaty signed by [[Ilmbund]], [[Arcadia]] and [[Lethania]], in [[1587 AF]]in the aftermath of the great [[Yádor|Yádorian]] [[Váida Khan|Invasion of Váida Khan]] of [[1587 AF]], in order to prevent future invasions from the east.
+
+The treaty lead to the establishment of the Great Fortress at [[Raubmaul]], on the southern side of the gap between the [[Göllnyr Mountains]] and the [[Wavering Mountains]].

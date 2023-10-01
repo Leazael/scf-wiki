@@ -7,7 +7,7 @@ High Elves generally adopt the same colour schemes as their surroundings and an 
 
 Since time immemorial, the High Elves and the [[Grey Elf|Grey Elves]] have been enemies, according to both parties, "since the beginning of time". However, the two elven races reconciled in the events following the [[Elven Genocide]].
 
-Since the [[Elven Genocide]] in 1564, most elves have migrated to the [[Grey Elf|Grey Elven]] home-[[Planet]] [[Elsar]]. Ever since, elves have been extremely rare in the [[Crucible]], though wandering individuals or recluses can sometimes be found.
+Since the [[Elven Genocide]] in [[1564 AF]], most elves have migrated to the [[Grey Elf|Grey Elven]] home-[[Planet]] [[Elsar]]. Ever since, elves have been extremely rare in the [[Crucible]], though wandering individuals or recluses can sometimes be found.
 
 Elves, amongst themselves, speak their own language, [[Elven]].
 

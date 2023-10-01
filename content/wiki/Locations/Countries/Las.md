@@ -4,7 +4,7 @@ aliases: [Lassian]
 # Summary 
 A collection of city-states in the north-western parts of the [[Crucible]]. It is considered one of the two [[Sosulkan]] states, together with [[Izmoroz]]. Every city is autocratically governed by one of the mysterious [[Princesses of Las|princess]]. 
 
-These [[Princesses of Las|princesses]] appeared simultaneously over one thousand years ago in an event called "The Year Without Dawn", which lasted rom 697 to 698 AF. In subsequent years, every attempt of [[Koschei the Deathless]] to reclaim these lands was met with grave disaster. No less than three armies were sent to deal with the usurping [[Princesses of Las|princesses]], but each of these armies were plagued by famine, predators and worse, and were decimated by the time they even arrived at the borders of the newly established country of Las.
+These [[Princesses of Las|princesses]] appeared simultaneously over one thousand years ago in an event called "The Year Without Dawn", which lasted from [[697 AF]] to [[698 AF]]. In subsequent years, every attempt of [[Koschei the Deathless]] to reclaim these lands was met with grave disaster. No less than three armies were sent to deal with the usurping [[Princesses of Las|princesses]], but each of these armies were plagued by famine, predators and worse, and were decimated by the time they even arrived at the borders of the newly established country of Las.
 
 Ever since, these [[Princesses of Las|princesses]] have ruled the various city-states of Las, apparently un-aging and eternal, although many stories circulate about these [[Princesses of Las|princesses]] in their youth.
 

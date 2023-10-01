@@ -11,7 +11,7 @@ The [[Synodal Church of Iomedae]] themselves can be split into two distinct bran
 - The [[Orthodox Synodal Church of Iomedae]], which governs [[Arcadia]] and most of [[Polovina]].
 - The [[Sosulkan Churches of Iomedae]]  which governs [[Las]], [[Izmoroz]] and the [[Sosulkan]] parts of [[Polovina]]. They split from the [[Orthodox Synodal Church of Iomedae]] after the [[White Revolution]], in an event called the [[Secession of '37]], but rejoined [[Synod]] during the [[Reparation of '51]], after the death of [[Koschei the Deathless]] and his succession by [[Ivan I Czarovitch]].
 
-Following the events of the [[Thanatogenic Ghost Storm]] in 1762, the [[Synod]] has incorporated the [[Dimmerschluß Creed]] into its official doctrine.
+Following the events of the [[Thanatogenic Ghost Storm]] in [[1762 AF]], the [[Synod]] has incorporated the [[Dimmerschluß Creed]] into its official doctrine.
 
 In the wake of the [[Revelationary Revolution|Apocalyptic Revolution]], several churches have formally distanced themselves from  the [[Synod]], forming the several [[Asynodal Churches of Iomedae]].
 

@@ -1,6 +1,6 @@
 The Lethanian Colonies refer to two areas on the south-[[Nachýr|Nachýrian]] coast, and the two cities that have sprung up in their respective centres, [[New Holmgard]] and [[Fort Arkys]].
 
-The first colony was established by Lianna [[House Arkys|Arkys]], who bough the land from [[Tiamat]] in 1614. The small fort that she build dubbed [[Fort Arkys]], was primarily used as a trading post, allowing [[Lethania|Lethanian]] ships to dock, and buy up large quantities of spices and resins, especially shellac. 
+The first colony was established by Lianna [[House Arkys|Arkys]], who bough the land from [[Tiamat]] in [[1614 AF]]. The small fort that she build dubbed [[Fort Arkys]], was primarily used as a trading post, allowing [[Lethania|Lethanian]] ships to dock, and buy up large quantities of spices and resins, especially shellac. 
 
 After the discovery of large [[Kavorinium|Kavorite]] deposits in the 1730s, the colonies quickly expanded in order to support new mining operations and [[Kavorinium]] production plants. 
 

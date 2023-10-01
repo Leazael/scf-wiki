@@ -4,6 +4,6 @@ Its population mainly consists of [[Dwarf|dwarves]], who make up roughly 80% of 
 
 Førnheller has traditionally exported large quantities of Iron and Copper to the surface, though in recent years, it has added [[Kavorinium]] ore to that list.
 
-While was city from which [[Dvårgheim]] was founded (141 AF), it is not the capital of the country.
+While was city from which [[Dvårgheim]] was founded ([[141 AF]]), it is not the capital of the country.
 
 It is said that the [[King Under the Mountains]] resides deep underneath Førnheller.

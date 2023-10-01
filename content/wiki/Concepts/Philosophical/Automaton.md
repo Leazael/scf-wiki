@@ -20,6 +20,6 @@ The intelligence of a [[Catastrophe Theory|catastrophic]] automaton, relies larg
 # Applications 
 [[Hermetic Philosophy|Hermetic]] automatons are generally used to endow engines, power supplies and other feats of engineering with rudimentary decision-making capabilities. For instance, several trains have been constructed possessing an [[Elemental Spirit]] as part of the boiler-architecture, allowing them to finely maintain fuel levels and burn rates.
 
-The more sophisticated [[Catastrophe Theory|catastrophic]] automatons are usually made to serve as assistants, secretaries and amanuenses to [[Natural Philosophy|Philosophers]]. However, as cost of maintainance tends to be high, they are a rare sight outside of the walls of the [[University|Universities]] and [[Great Guilds of Ilmbund|Great Guilds]].
+The more sophisticated [[Catastrophe Theory|catastrophic]] automatons are usually made to serve as assistants, secretaries and amanuenses to [[Natural Philosophy|Philosophers]]. However, as cost of maintenance tends to be high, they are a rare sight outside of the walls of the [[University|Universities]] and [[Great Guilds of Ilmbund|Great Guilds]].
 
-One particularity notable automaton is [[Rotwang the Brassman]], who obtained a doctorate from the [[College of Elbisborg]] in 1755. He was the first [[Automaton]] in the [[Crucible]] to officially obtain a higher education.
+One particularity notable automaton is [[Rotwang the Brassman]], who obtained a doctorate from the [[College of Elbisborg]] in [[1755 AF]]. He was the first [[Automaton]] in the [[Crucible]] to officially obtain a higher education.

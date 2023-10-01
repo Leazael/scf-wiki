@@ -2,4 +2,4 @@ The Myrk is the name of a river flowing from [[Ilmbund]] through [[Arcadia]]. It
 
 The Myrk swamp is a relatively newly discovered source of precious [[Miasma]], making it the only known large source next to the [[Hèrlmersc]]. 
 
-On its discovery, the Myrk swamp was jointly exploited by the two [[Philosophical Powers]], however, tensions due to strikes and price-negotiations were one of the major factors in the conflict leading up to the [[Silent War]] (1756 - 1758).
+On its discovery, the Myrk swamp was jointly exploited by the two [[Philosophical Powers]], however, tensions due to strikes and price-negotiations were one of the major factors in the conflict leading up to the [[Silent War]] ([[1756 AF]] - [[1758 AF]]).

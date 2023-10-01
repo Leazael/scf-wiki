@@ -1,4 +1,4 @@
-The Blood Oath or the Sanguine Promise is a policy adhered to by [[Bondsmage|Bondsmagi]] of the [[Shining Academy]].
+The Blood Oath or the Sanguine Promise is a policy issued in [[699 AR]] by the [[Bondsmage|Bondsmagi]] of the [[Shining Academy]].
 
 The oath states that if an outsider is responsible for the death of a [[Magus]], they will be punished in equal measure. It is the responsibility of all [[Magus|Magi]], but especially the [[Bondsmage|Bondsmagi]], to make this happen.
 

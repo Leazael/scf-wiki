@@ -1,9 +1,8 @@
-# Magus
-A member and [[Magic|Magical]] Practicioner of the [[Shining Academy]]. 
+A Magus is an esteemed member and [[Magic|Magical]] Practitioner of the [[Shining Academy]]. 
 
-**The following held before the events of 1726. It is known how much of the structure of the [[Shining Academy]] remains.**
+**The following held before the events of [[1726 AF]]. It is known how much of the structure of the [[Shining Academy]] remains.**
 
-Once an accomplished [[Magus]], it is expected (but not required) to join one of the academy's many factions. Each of these factions has its own set of responsibilities. Virtually all members belong to at least one of these factions, and often even two. Only between the [[Bondsmage|Desmotes]] ([[Bondsmage|Bondsmagi]]) and [[Magus|Archons]] (rulers) is a strict separation maintained: one cannot join one of these factions if one has ever been a member of the other.
+An accomplished [[Magus]] is expected (but not required) to join one of the academy's many factions. Each of these factions has its own set of responsibilities. Virtually all members belong to at least one of these factions, and often even two. Only between the [[Bondsmage|Desmotes]] ([[Bondsmage|Bondsmagi]]) and [[Magus|Archons]] (rulers) is a strict separation maintained: one cannot join one of these factions if one has ever been a member of the other.
 
 The most famous factions are the following:
 

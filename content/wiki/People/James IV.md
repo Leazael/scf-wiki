@@ -1,3 +1,3 @@
-James IV was the Priest-King of [[Arcadia]] from 1709 until his death in 1737. During the end of his reign, we was known for being a staunch anti-[[Revelationary Revolution|Apocalyptic]] reactionary.
+James IV was the Priest-King of [[Arcadia]] from [[1709 AF]] until his death in [[1737 AF]]. During the end of his reign, we was known for being a staunch anti-[[Revelationary Revolution|Apocalyptic]] reactionary.
 
 His death and succession by the Priest-Queen [[Mary VIII]] enabled a series of [[Revelationary Revolution|Apocalyptic]] reforms in both [[Arcadia]] and the [[Synod]], collectively known as the [[White Revolution]].

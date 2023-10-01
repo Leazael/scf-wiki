@@ -1,0 +1,5 @@
+In [[Alchemy]], the term chrysopoeia refers to the artificial production of gold, most commonly by the transmutation of base metals such as lead and iron. More generally, the term is applied to describe the entire field of trans-substantiative processes.
+
+The only known consistent process for pure chrysopeia was developed by the [[Guild of Alchemists]] in the late 1600s, though this knowledge did not become public until after the [[Twelve-Day War]] of [[1730 AF]]. This process combines 903.207 mg of purified heavy lead, 96.749 mg of common iron and 287.885g of [[Miasma]] to create 1g of pure gold. 
+
+However, with current gold prices at roughly 50[[Bundesmark|ℬ₰]] per gram and the cost of miasma at just below 15[[Bundesmark|ℬ₰]] per gram (10[[Bundesmark|ℬ₰]] per vial), this process is obviously not profitable.

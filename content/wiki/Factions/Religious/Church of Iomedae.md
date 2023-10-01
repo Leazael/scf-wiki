@@ -5,7 +5,7 @@ The Church of [[Iomedae]] is without doubt the most far spread and influential o
 
 The faith was introduced to the [[Crucible]] by the first [[Arcadia|Arcadian]] settlers 1200 years ago and has since spread to nearly every nation of the [[Crucible]], displacing the worship of the [[Old Sosulkan Gods]] and the [[Æsir]]. For the last 800 years, the Church of [[Iomedae]] is the foremost religion in [[Ilmbund]], [[Lethania]], [[Arcadia]], [[Las]] and [[Izmoroz]], though it can also be found in [[Dvårgheim]] and in [[Nachýr]].
 
-The church originated in [[Arcadia]] in, brought along with its settlers in 526 AF. By the year 1000 AF, they had displaced the [[Old Sosulkan Gods]] in most parts of the [[Crucible]].
+The church originated in [[Arcadia]] in, brought along with its settlers in [[526 AF]]. At the start of the 11th century, they had displaced the [[Old Sosulkan Gods]] in most parts of the [[Crucible]].
 
 The religion is based on four principle texts, the [[Three Lays]], The [[Six Tenets]], The [[Nine Parables]] and the [[Book of Canon Law]], that are collectively refered to as the [[Iomedaean Canon]].
 

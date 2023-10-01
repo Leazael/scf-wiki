@@ -4,4 +4,4 @@ Sosulka one of the oldest cities of the [[Crucible]], predating [[Izmoroz]] itse
 
 Despite the [[Sosulkan Churches of Iomedae]] having a near-spiritual monopoly in the city, Sosulka still houses one of the only temples of the [[Old Sosulkan Gods]].
 
-The city housed one of the embassies of the [[Shining Academy]], until it closed its doors in 1726.
+The city housed one of the embassies of the [[Shining Academy]], until it closed its doors in [[1726 AF]].

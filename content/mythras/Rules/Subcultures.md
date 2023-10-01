@@ -40,7 +40,7 @@ Additionally, they must spend at least 20 points from "rounding out their charac
 - May select a professional skills from the relevant Urban culture as an additional bonus skill.
 
 # Eastern [[Ork]] 
-This refers to the native [[Ork|Orks]] of [[Arcadia]], [[Lethania]], [[Polovina]] and [[Las]]. The [[Orks]] of Tel Varesh have their own culture.
+This refers to the native [[Ork|Orks]] of [[Arcadia]], [[Lethania]], [[Polovina]] and [[Las]]. The [[Ork|Orks]] of Tel Varesh have their own culture.
 
 ### Requirements 
 - [[Ork|Orkish]] Ancestry.

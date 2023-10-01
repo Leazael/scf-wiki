@@ -5,8 +5,8 @@ The Three Great Guilds of [[Ilmbund]] comprise one of the two governing bodies o
 
 The Great Guilds currently consist of [[Guild of Alchemists]], the [[Guild of Clockworkers]] and the [[Guild of Bankers and Brokers]], each rules from their respective chapterhouse in [[Sälen]].
 
-The Great Guilds were founded in 1455 AF, after the Royal House of [[Ilmbund|Ilm]] was displaced in the aftermath of the third [[Crusade]] (1416 AF to 1424 AF). The original [[Triumvirate of Ilmbund|Triumvirate]] was made up from  the Guild of Blacksmiths, the Guild of Carpenters and the [[Guild of Stonemasons]].  
+The Great Guilds were founded in [[1455 AF]], after the Royal House of [[Ilmbund|Ilm]] was displaced in the aftermath of the third [[Crusade]] ([[1416 AF]] to [[1424 AF]]). The original [[Triumvirate of Ilmbund|Triumvirate]] was made up from  the Guild of Blacksmiths, the Guild of Carpenters and the [[Guild of Stonemasons]].  
 
-In the early 1704, the Guild of Blacksmiths was replaced by the [[Guild of Alchemists]], and in 1709, a new upheaval takes place when the [[Guild of Clockworkers]] similarly replaces the Guild of Carpenters.
+In the early [[1704 AF]] the Guild of Blacksmiths was replaced by the [[Guild of Alchemists]], and in [[1711 AF]], a new upheaval takes place when the [[Guild of Clockworkers]] similarly replaces the Guild of Carpenters.
 
-In the wake of the [[Revelationary Revolution|Apocalyptic Revolution]], the [[Guild of Stonemasons]] was outlawed and replaced by the [[Guild of Bankers and Brokers]].
+In the wake of the [[Revelationary Revolution|Apocalyptic Revolution]], and in particular the [[Twelve-Day War]] of [[1730 AF]], the [[Guild of Stonemasons]] was outlawed and replaced by the [[Guild of Bankers and Brokers]].

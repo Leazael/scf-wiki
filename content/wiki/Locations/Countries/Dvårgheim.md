@@ -13,15 +13,15 @@ The primary language of [[Dvårgheim]] is [[Dvårgish]]. Its capital is [[Draumd
 It is considered one of the [[Philosophical Powers]].
 
 # History
-Dvårgheim was founded in 141 AF by a small group of [[Dwarf|dwarves]], now often called "The [[Founders]]". The [[Founders]], all descendent from the same tribe on the [[Previous World]], met by happy accident in the city of [[Førnheller]]. Deciding that tribes should never be sundered the way they were during that [[Rupture of the Æther]], they founded the nation of Dvårgheim, promising that all [[Dwarf|dwarves]], no matter their background would find a home in their mountains and that the nation may stand as a bulwark agains the onslaught of [[Ragnarǫk]].
+Dvårgheim was founded in [[141 AF]] by a small group of [[Dwarf|dwarves]], now often called "The [[Founders]]". The [[Founders]], all descendent from the same tribe on the [[Previous World]], met by happy accident in the city of [[Førnheller]]. Deciding that tribes should never be sundered the way they were during that [[Rupture of the Æther]], they founded the nation of Dvårgheim, promising that all [[Dwarf|dwarves]], no matter their background would find a home in their mountains and that the nation may stand as a bulwark agains the onslaught of [[Ragnarǫk]].
 
 Over the centuries, hundreds of tribes from all manner of [[Planet|Planets]] and [[Planet|Moons]] have moved to Dvårgheim, creating a rich and diverse mingling of dwarven cultures and traditions.
 
-Throughout the centuries, Dvårgheim remains an isolationist country. A stance that changed in 1744 when Dvårgheim liberates the [[Lethania|Lethanian]] city [[Klingeborn]] in [[Thurandir]] from the [[Allied Forces]]. The nation of Dvårgheim was one of the official observer states during the signing of the [[Peace of Weißenfels]].
+Throughout the centuries, Dvårgheim remains an isolationist country. A stance that changed in [[1744 AF]] when Dvårgheim liberates the [[Lethania|Lethanian]] city [[Klingeborn]] in [[Thurandir]] from the [[Allied Forces]]. The nation of Dvårgheim was one of the official observer states during the signing of the [[Peace of Weißenfels]].
 
-However, due to the continued [[Cacotopic Warp|Pivoting]] of [[Holmgard]], Dvårgheim officially declares the start of [[Ragnarǫk]] in 1746 and goes on lockdown for years.
+However, due to the continued [[Cacotopic Warp|Pivoting]] of [[Holmgard]], Dvårgheim officially declares the start of [[Ragnarǫk]] in [[1746 AF]] and goes on lockdown for years.
 
-Fourteen years later in 1760, the country reopens, declaring that the [[Æsir|gods]] have managed to avert the coming apocalypse. It retroactively becomes a signatory on the [[Gabel Pact]].
+Fourteen years later in [[1760 AF]], the country reopens, declaring that the [[Æsir|gods]] have managed to avert the coming apocalypse. It retroactively becomes a signatory on the [[Gabel Pact]] in [[1763 AF]].
 
 # Races 
 Roughly half of the population of [[Dvårgheim]] consists of mountain-dwelling [[Dwarf|dwarves]]. However, the coastal regions are mainly inhabited by viking-like [[Human|Humans]]. Other races, especially [[Gnome|Gnomes]] can be found mainly in the big cities. The [[Thurmork]] forest, as well as other parts within the mountains are said to be inhabited by [[Giant|Giants]].

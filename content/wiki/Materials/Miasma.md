@@ -2,7 +2,7 @@ Miasma is a heavy luminescent gas that can be found beneath the bogs and mires o
 
 Miasma can be easily recognized by its vibrant colours, alternating randomly between vibrant swirls of turquoise and fuchsia. Although miasma can be seen in the dark, it typically does not provide much light. A 50Bml vial of miasma sheds significantly less light than a typical candle.
 
-Ever since the development of the first Miasma-wicks in 1634 AF, [[Natural Philosophy|Philosophers]] have found a myriad of applications for miasma. Most notably, the substance can be used to apply a great amount of heat in a very short amount of time, thus enabling engineers to start up their steam-engines in a fraction of the time it would take conventional fuels.
+Ever since the development of the first Miasma-wicks in [[1634 AF]], [[Natural Philosophy|Philosophers]] have found a myriad of applications for miasma. Most notably, the substance can be used to apply a great amount of heat in a very short amount of time, thus enabling engineers to start up their steam-engines in a fraction of the time it would take conventional fuels.
 
 It has also been used as a propellant in several more exotic siege-weapons, and as a power source for many other quaint and curious devices. In recent years, miasma has become commonly available with more and more houses and even street-lights being lit by the substance. Miasma lamps shed a harsh white-bluish light, that tends to flicker pinkly as the energy of the vial is depleted. A common street-lamp can be powered for well over a week by a single vial of miasma.
 
