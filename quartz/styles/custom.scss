@@ -1,3 +1,134 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
+@use "./syntax.scss";
+@use "./callouts.scss";
 
-// put your custom CSS here!
+.page {
+    @media all and (max-width: $fullPageWidth) {
+      margin: 0 auto;
+      padding: 0 1rem;
+      max-width: $pageWidth;
+    }
+  
+    & article {
+      & > h1 {
+        font-size: 1.75rem;
+      }
+  
+      & li:has(> input[type="checkbox"]) {
+        list-style-type: none;
+        padding-left: 0;
+      }
+  
+      & li:has(> input[type="checkbox"]:checked) {
+        text-decoration: line-through;
+        text-decoration-color: var(--gray);
+        color: var(--gray);
+      }
+  
+      & li > * {
+        margin-top: 0;
+        margin-bottom: 0;
+      }
+  
+      p > strong {
+        color: var(--dark);
+      }
+    }
+  
+    & > #quartz-body {
+      width: 100%;
+      display: flex;
+      @media all and (max-width: $fullPageWidth) {
+        flex-direction: column;
+      }
+  
+      & .sidebar {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+        top: 0;
+        width: $sidePanelWidth;
+        margin-top: $topSpacing;
+        box-sizing: border-box;
+        padding: 0 4rem;
+        position: fixed;
+        @media all and (max-width: $fullPageWidth) {
+          position: initial;
+          flex-direction: row;
+          padding: 0;
+          width: initial;
+          margin-top: 2rem;
+        }
+      }
+  
+      & .sidebar.left {
+        left: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
+        @media all and (max-width: $fullPageWidth) {
+          gap: 0;
+          align-items: center;
+        }
+      }
+  
+      & .sidebar.right {
+        right: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
+        flex-wrap: wrap;
+        & > * {
+          @media all and (max-width: $fullPageWidth) {
+            flex: 1;
+            min-width: 140px;
+          }
+        }
+      }
+    }
+  
+    & .page-header,
+    & .page-footer {
+      width: $pageWidth;
+      margin-top: 1rem;
+  
+      @media all and (max-width: $fullPageWidth) {
+        width: initial;
+      }
+    }
+  
+    & .page-header {
+      margin: $topSpacing auto 0 auto;
+      @media all and (max-width: $fullPageWidth) {
+        margin-top: 2rem;
+      }
+    }
+  
+    & .center,
+    & footer {
+      margin-left: auto;
+      margin-right: auto;
+      width: $pageWidth;
+      @media all and (max-width: $fullPageWidth) {
+        width: initial;
+        margin-left: 0;
+        margin-right: 0;
+      }
+    }
+  }
+  
+  
+.table-container {
+    overflow-x: auto;
+  
+    & > table {
+      margin: 0.5rem;
+      padding: 0.5rem;
+      border-collapse: collapse;
+  
+      th,
+      td {
+        min-width: 0px;
+      }
+  
+      & > * {
+        line-height: 2rem;
+      }
+    }
+  }
