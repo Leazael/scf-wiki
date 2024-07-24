@@ -1,0 +1,3 @@
+Saint Omelas is a lesser [[Saint]] of the [[Synodal Church of Iomedæ|Synodal Church]]. It is said that during the first [[Crusade]], they rescued a [[Nachýr|Nachýrian]] slave ship filled with children, and singlehandedly steered it to [[Sallysport]].
+
+Even though the ship had run out of food and fresh water, Saint Omelas was able to stave off starvation by guiding the children in hymns to [[Iomedæ]]. The arrival of the Singing Ship of Saint Omelas is still a story remembered in [[Sallysport]].

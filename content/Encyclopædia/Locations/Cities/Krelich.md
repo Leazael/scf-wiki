@@ -1,0 +1,3 @@
+Krelich is the a large port-city in northern [[Polovina]]. Krelich is, by a wide margin, the largest port-city on the shores of the [[Rime Sea]], followed only distantly by [[Zolushka]]. 
+
+The city lies on the border of the former [[Lethania|Lethanian]] provinces of [[Fenwald]] and [[Thurandir]], and has become the seat of [[House Eburin]] following their ousting from [[Klingeborn]] in the wake of the [[Lethanian War of Separation|Great War]].

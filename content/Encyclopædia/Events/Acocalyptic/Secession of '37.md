@@ -1,0 +1,5 @@
+A split in the [[Synodal Church of Iomedæ]] in the wake of the [[Revelationary Revolution]], leading to a separation between the [[Orthodox Synodal Church of Iomedæ]] and the [[Sosulkan Churches of Iomedæ]].
+
+After the death of Priest-King [[James IV]] and his succession by Priest-Queen [[Mary VIII]] in [[1737 AF]], many pro-[[Revelationary Politics|apocalyptic]] reforms were passed. Unfortunately, these reforms led to the secession of several more conservative church members from [[Las]] and [[Izmoroz]], who united as the [[Sosulkan Churches of Iomedæ]]. This secession is usually labelled the Secession of '37. 
+
+The remaining [[Arcadia|Arcadian]], [[Polovina|Polovian]] and [[Lethania|Lethanian]] [[Bishop|Bishops]] have been dubbed the [[Orthodox Synodal Church of Iomedæ]]. It was not until [[1751 AF]] that the western [[Sosulkan Churches of Iomedæ|Sosulkan]] [[Bishop|Bishops]] were formally reinstituted in the [[Synod]] during the [[Reparation of '51]].

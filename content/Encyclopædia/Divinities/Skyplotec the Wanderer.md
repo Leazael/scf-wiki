@@ -1,0 +1,1 @@
+Skyplotec is the [[God]] of gamblers, thieves and travellers. Some scholars have claimed that Skyplotec is one of the disguises of Odin or Loki of the [[Æsir]]. He is similarly identified with the [[Nachýr|Nachýrian]] [[Kovold]] fool-hero [[5555 Shattered Spears]] and even the apocryphal [[Dvårgheim|Dvårgian]] [[Elf|Elven]] King [[Elhandrur the Inane]].

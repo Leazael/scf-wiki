@@ -1,0 +1,5 @@
+The Seminary is a place where lay people go to be trained as priests, and for priests to continue learning, in letters, arts and of course [[Natural Philosophy]]. It is the pre-eminent place of learning in [[Arcadia]].
+
+The Seminary is the most renowned of the [[University|Universities]] when it comes to the study of history and although the Seminary rarely really competes with [[College of Elbisborg]] or the [[Academy of Weißenfels]] when it comes to [[Natural Philosophy]], it still enjoys a certain prestige. 
+
+In recent years (and under tight [[Synod|Synodal]] scrutiny), the Seminary has even opened a small faculty of [[Hermetic Philosophy]]. Of course all research into and lecturing on [[Transliminal Invocation]] has been proactively prohibited, as its study conflicts with the traditional [[Synodal Church of Iomedæ|Synodal]] reading of the [[Nine Parables|Parable of the Sorcerer]].

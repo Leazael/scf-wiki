@@ -1,0 +1,1 @@
+0 AR (or 716 BF) was the first year following the creation of the [[Planet]] [[Urth]].

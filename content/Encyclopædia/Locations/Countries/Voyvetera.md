@@ -1,0 +1,6 @@
+---
+aliases: [Voyveteran]
+---
+Voyvetera is a relatively unknown country beyond the [[Strait of Drakul]] to the north-west of the [[Crucible]]. The country is known to have a sizable population of [[Halfling|Halflings]], ethnically and culturally distinct from the [[Yádor|Yádorian]] [[Halfling|Halflings]].
+
+While not the capital, [[Voievodmare]] is probably the most well-known of the Voyveteran cities. This large port city in the [[Strait of Drakul]], links the [[Rime Sea]] to the [[Widdersin Ocean]] and is an occasional stop for Ships that can pay the high stipends for dropping anchor there.

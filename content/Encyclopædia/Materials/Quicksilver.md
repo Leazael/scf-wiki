@@ -1,0 +1,3 @@
+Quicksilver is a silvery-white liquid metal with a [[Four Elements#Protohydric Index|Protohydric Index]] of 80.
+
+Quicksilver is often used in [[Alchemy|Alchemical]] processes as it is able to dissolve gold, silver, [[Kavorinium]], but not [[Mythril]] or Iron. Quicksilver is also the only material known to be able to dissolve depleted [[Miasma]], which itself is an essential step in harnessing the [[Holtzmann-Effect]].

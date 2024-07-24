@@ -1,0 +1,8 @@
+---
+aliases: [Waardschap, Economie, Economy, Wrathship, Gramschappijleer, Waardschappijleer, wirtish]
+---
+The [[Anglic]] translation of [[Ildarin]] Wirtschaft/Waardschap, a branch of applied philosophy that studies the production, distribution, and consumption of goods and services.
+
+Of particular interest is [[Merovianism|Merovian]] wirtship, a heterodox study of social-wirtish thought created by [[Merovitz]] in the wake of the [[Revelationary Revolution|Apocalyptic Revolution]].
+
+The term Wrathship (from Gramschappijleer) is sometimes used to refer to austerity measures.

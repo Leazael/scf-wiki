@@ -1,0 +1,1 @@
+The Ratfolk are a species of small rat-like [[Sapient|Sapients]] that can be found in [[Voyvetera]]. They are often employed as sailors on [[Voyvetera|Voyveteran]] frigates.

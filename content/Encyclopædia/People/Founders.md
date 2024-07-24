@@ -1,0 +1,1 @@
+The Founders are the legendary [[Dwarf|dwarves]] who founded the nation of [[Dvårgheim]] in [[141 AF]]. According to the stories, they were all descendants from the same tribe on the [[Foreworld]].

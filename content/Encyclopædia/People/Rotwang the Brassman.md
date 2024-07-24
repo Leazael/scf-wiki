@@ -1,0 +1,3 @@
+Rotwang the Brassman, also known as Rotwang the Brazen Man (Rotwan de Messingman) is a particularly intelligent [[Automaton]] who obtained a doctorate from the [[College of Elbisborg]] in [[1755 AF]]. He was the first [[Automaton]] in the [[Crucible]] to officially obtain a higher education.
+
+He has since been formally instigated as a member of the [[Ilmbund|Ilmian]] [[Guild of Alchemists]] and is associated with the [[Parties of Ilmbund#Spark and Tinder|Spark and Tinder Party]].

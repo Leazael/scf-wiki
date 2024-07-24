@@ -1,0 +1,5 @@
+Symbolic Iomedæism is a [[Heresy]] which has grown out of the older [[Heresy]] of [[Perfectionist Iomedæism]]. The belief holds that there never was a Mortal [[Iomedæ]], but that the concept of a Mortal Iomedæ was created, and possibly endorsed, by the godhead to allow mortals to better comprehend her teachings. Alternatively, it gives mortals something to believe in, since the true nature of the immortal and ineffable goddess would be incomprehensible.
+
+This belief is specifically disavowed by the [[Dimmerschluß Creed]] and is thus a [[Heresy]] in the dogma of the [[Synodal Church of Iomedæ|Synodal Church]]. Nevertheless, some [[Asynodal Churches of Iomedæ|Asynodal Churches]] still hold to it. 
+
+The believers in a Symbolic Iomedæ often consider the various [[Protokyriatic Deism|Protokyriatic Deities]] to be similar aspects of the [[Perfectionist Iomedæism|perfect]] godhead, reminiscent of [[Protokyriatic Deism]] and [[Symbolic Iomedæism]].

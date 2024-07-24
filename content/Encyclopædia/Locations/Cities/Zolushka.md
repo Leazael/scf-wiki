@@ -1,0 +1,1 @@
+One of the oldest and largest cities of [[Las]], ruled by one of the [[Princesses of Las]]. Zolushka is often considered the northernmost city of the [[Crucible]].

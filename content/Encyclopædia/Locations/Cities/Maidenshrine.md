@@ -1,0 +1,3 @@
+A city in western [[Arcadia]], also known as Magdenschrein in [[Ildarin]]. From [[1663 AF]] to [[1745 AF]], the city was part of the [[Lethania|Lethanian]] province [[Averion]]. It originally came under [[Lethania|Lethanian]] rule in the aftermath of the Fourth [[Crusade]], but re-joined [[Arcadia]] under the stipulations of the [[Peace of Weißenfels]], after the [[Lethanian War of Separation]].
+
+The city has, since the time of the founding of [[Arcadia]], been ruled by [[House Brightshield]].
