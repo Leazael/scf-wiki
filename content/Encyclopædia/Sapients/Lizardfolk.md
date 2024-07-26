@@ -15,3 +15,8 @@ Lizardfolk are, like [[Kovold|Kovolds]], poikilothermic, and only partially gene
 Despite the fact that true Lizardfolk are an all-female species who reproduce through parthenogenesis, they still engage in mating behaviour and form usually monogamist relationships. In fact, it is well known among the Lizardfolk themselves that ovulation is contingent on such behaviours.
 
 It is hypnotized that these True Lizardfolk are in fact a heterotic interspecific hybridization of the Dragonborn and Feral Lizardfolk, and it is the hybridization of these species that prevents healthy male offspring from forming.
+
+# Name 
+In older [[Ildarin]], the name _Kozarn_ was originally obtained by a mistranslation that rendered the original _Kozarnyn_ as the plural _Kozarnen_, which was then incorrectly singularised as _Kozarn_. 
+
+In modern [[Anglic]] and [[Ildarin]], Kozarn is generally preferred over _Lizardfolk_, and is used as both singular and plural.
