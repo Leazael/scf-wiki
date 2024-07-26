@@ -6,4 +6,4 @@ While the forces of [[Tiamat]] incurred by far the greater losses, [[Koschei the
 
 The war got its name from the accounts of the battlefields, littered with the frozen corpses of [[Tiamat|Tiamat’s]] slave soldiers. 
 
-In the aftermath of the war, [[Tiamat]] moved her capital to the newly conquered eastern lands, to the newly conquered city of [[Chýrusandr]].
+In the aftermath of the war, [[Tiamat]] moved her capital to the newly conquered eastern lands, to the newly conquered city of [[Chýrussandr]].

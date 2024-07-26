@@ -15,7 +15,7 @@ However, in the aftermath of the [[Nachýrian Exodus|Exodus]], a small sect know
 # Exhumation 
 The discovery of Vahamut's corpse, usually referred to as the "Exhumation of Vahamut", plays a central role in modern [[Kovold|Kovoldic]] [[Nachýrian Religion|religion]] and has been cited as the primary reason for the [[Nachýrian Exodus]].
 
-According to [[Nachýr|Nachýrian]] witnesses, the corpse of Vahamut was discovered in [[1768 AF]], coinciding with the [[Tiamat#Disappearance|disappearance of Tiamat]]. Whether these two events are in any way linked is unknown, but popular speculation states that [[Tiamat]] must have harboured Vahamut's corpse for millennia underneath her throne room in [[Chýrusandr]]. Others speculate that the presence of Vahamut's corpse may even have been the reason that [[Tiamat]] conquered the city (during the [[War of Frozen Chains]]) to begin with.
+According to [[Nachýr|Nachýrian]] witnesses, the corpse of Vahamut was discovered in [[1768 AF]], coinciding with the [[Tiamat#Disappearance|disappearance of Tiamat]]. Whether these two events are in any way linked is unknown, but popular speculation states that [[Tiamat]] must have harboured Vahamut's corpse for millennia underneath her throne room in [[Chýrussandr]]. Others speculate that the presence of Vahamut's corpse may even have been the reason that [[Tiamat]] conquered the city (during the [[War of Frozen Chains]]) to begin with.
 
 Despite the infamy of the exhumation, the means and time of the death of Vahamut are unknown. It is even unclear if a [[Dragon]] by the name of Vahamut even existed in [[Nachýr]] before the onset of the [[Tiamat#Disappearance|disappearance of Tiamat]] and the [[Nachýrian Exodus]]. 
 

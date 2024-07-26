@@ -16,7 +16,7 @@ Collected Lore pages:
 - A brief [[History of Natural Philosophy]]
 - [[De Tovenaars IJsberg]]
 
-![[de_kroes_v3.png]]
+![[de_kroes_v4.png]]
 
 # Encyclopædic Index
 - Concepts
@@ -198,7 +198,7 @@ Collected Lore pages:
     - [[Urth]]
   - Cities
     - [[Aldsbury]]
-    - [[Chýrusandr]]
+    - [[Chýrussandr]]
     - [[Covenant]]
     - [[Echsee]]
     - [[Elbisborg]]
@@ -206,7 +206,7 @@ Collected Lore pages:
     - [[Ilm's Watch]]
     - [[Klingeborn]]
     - [[Krelich]]
-    - [[Lygárnach]]
+    - [[Lgárnach]]
     - [[Maidenshrine]]
     - [[New Holmgard]]
     - [[Ornsheill]]
@@ -311,6 +311,6 @@ Collected Lore pages:
 
 Data: 260 pages completed, 36 in draft, 357 keywords.
 
-58428 words written. 7055 unique words.
+58431 words written. 7055 unique words.
 
-Last updated 2024-07-25 00:06.
+Last updated 2024-07-26 22:47.

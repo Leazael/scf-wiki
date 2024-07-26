@@ -17,7 +17,7 @@ The Casting, or _Giettijd_ in [[Ildarin]], refers to the era that shaped most la
 - [[526 AF]]: The first [[Arcadia|Arcadian]] settlers arrive from [[Vahestan]].
 - [[566 AF]]: The start of the [[War of Frozen Chains]].
 - [[581 AF]]: The end of the [[War of Frozen Chains]].
-- [[581 AF]]: [[Chýrusandr]] is made the capital of [[Nachýr]].
+- [[581 AF]]: [[Chýrussandr]] is made the capital of [[Nachýr]].
 - [[584 AF]]: [[Arcadia]] is founded and [[St. Uther]] is crowned as its first Priest-King.
 - [[697 AF]]: The start of the [[Year Without Dawn]].
 - [[697 AF]]: The city-states of [[Las]] gain independence from [[Izmoroz]].

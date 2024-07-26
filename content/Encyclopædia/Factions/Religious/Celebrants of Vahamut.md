@@ -1,5 +1,5 @@
 ---
-aliases: [Vahamut Worship, Vahamut Veneration, Vahamutvierders, Celebrantion of Vahamut]
+aliases: [Vahamut Worship, Vahamut Veneration, Vahamutvierders, Celebrantion of Vahamut, Vháchysezvrakr]
 tags: [Draconic]
 ---
 The Celebration of [[Vahamut]] is a recent [[Nachýr|Nachýrian]] religion that sprang up in the wake of the [[Tiamat#Disappearance|Disappearance of Tiamat]] and the [[Vahamut#Exhumation|Exhumation of Vahamut]], and that directly contributed to the onset of the [[Nachýrian Exodus]].  

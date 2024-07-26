@@ -9,7 +9,7 @@ Before the [[Withering Blossoms]] and the [[Tiamat#Disappearance|Disappearance o
 Its only holy text is the Law of [[Nachýr]], a large document that mainly deals with property and inheritance rights and regulations, that was supposedly dictated by [[Tiamat]] herself.
 
 ## Doctrine
-The principle doctrine, or Þjasezvrakr (literally: Tiamat-[[God|god]]-truth.), of the Temple of [[Tiamat]] posits that the world and all it contains is the singular and undivided property of the [[God|divine]] [[Tiamat]], who resides in her capital in [[Chýrusandr]].  
+The principle doctrine, or Þjasezvrakr (literally: Tiamat-[[God|god]]-truth.), of the Temple of [[Tiamat]] posits that the world and all it contains is the singular and undivided property of the [[God|divine]] [[Tiamat]], who resides in her capital in [[Chýrussandr]].  
 
 The religion also teaches that any hierarchy of possessor and possessed is natural and just, and as such, that the strong have the right to rule over the weak. 
 

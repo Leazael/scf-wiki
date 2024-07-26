@@ -8,7 +8,7 @@ Nachýr is a large former empire that liest to the west of the [[Crucible]], kno
 
 Nachýr shares a border with [[Izmoroz]], the [[Vareshian Commonwealth]], [[Dalriada]] and [[Lethania]].
 
-[[Chýrusandr]] is Nachýr's largest city, and used to be its capital before the collapse of its government. The primary language of Nachýr is [[Draconic]], of which there exist many dialects.
+[[Chýrussandr]] is Nachýr's largest city, and used to be its capital before the collapse of its government. The primary language of Nachýr is [[Draconic]], of which there exist many dialects.
 
 Even before the events of the [[Withering Blossoms]] that killed most of the [[Serpentfolk]], both [[Lethania]] and [[Tel Varesh]] have started colonies (see [[Vareshian Colonies]] and the [[Lethanian Colonies]]) in the southwestern part of Nachýr, where many natural resources can be found. The new foreign cities [[Vareshian Colonies|Kef Hattikvah]], [[Fort Arkys]] and [[New Holmgard]] house sizable non-[[Kovold]] populations.
 
@@ -31,7 +31,7 @@ Over the next four hundred years, [[Arcadia]] would try two more times to destro
 
 In [[1656 AF]], against the wishes and wisdom of [[Lethania]] and Ilmbund, Arcadia launched its fourth, and to this date final [[Crusade]]. After a small period of economic downfall, caused by draughts and subsequent floods, the [[Synod]] of [[Arcadia]] had become more and more radicalized, to the point that the [[Inquisition]] started blaming [[Tiamat]] and [[Tiamat]] worshippers for their misfortune. These allegations came to a crescendo when finally the Priest-King [[Arcadia]] decided that [[Tiamat]] had to be stopped once and for all. 
 
-While the [[Crusade]] raged on, the people of Arcadia were slowly starving, while all the available food was sent to the front lines of the war. After a seven-year-long [[Crusade]] and the siege of [[Lygárnach]], which lasted three years, it was decided by [[Lethania]] and [[Ilmbund]] that this [[Crusade]] should come to an end. They rallied their forces against those of [[Arcadia]] and slowly drove the [[Arcadia|Arcadian]] armies back from [[Nachýr]] towards [[Arcadia]]. In addition, it was decided that a large part of [[Arcadia|Arcadian]] territory would be transferred to Lethania, as an independent province, ruled by a more peaceful branch of the Arcadian royal family. Thus it was in the year [[1663 AF]] that the fourth [[Crusade]] ended.
+While the [[Crusade]] raged on, the people of Arcadia were slowly starving, while all the available food was sent to the front lines of the war. After a seven-year-long [[Crusade]] and the siege of [[Lgárnach]], which lasted three years, it was decided by [[Lethania]] and [[Ilmbund]] that this [[Crusade]] should come to an end. They rallied their forces against those of [[Arcadia]] and slowly drove the [[Arcadia|Arcadian]] armies back from [[Nachýr]] towards [[Arcadia]]. In addition, it was decided that a large part of [[Arcadia|Arcadian]] territory would be transferred to Lethania, as an independent province, ruled by a more peaceful branch of the Arcadian royal family. Thus it was in the year [[1663 AF]] that the fourth [[Crusade]] ended.
 
 Despite the [[Crusade|Crusades]] having formally ended, [[Arcadia]] still remained engrossed in a border conflict with [[Nachýr]] on the [[Step-Stone Isles]]. In [[1729 AF]], Lethania, fed up again, intervened. Peace was again forced between [[Arcadia]] and [[Nachýr]], and a large part of the [[Step-Stone Isles]] became Lethanian territory.
 
@@ -51,7 +51,7 @@ Until the [[Tiamat]] and the coinciding Death of [[Vahamut]] in [[1768 AF]], [[T
 
 Before the disappearance of [[Tiamat]], Kovold priests were rare as these roles were often filled by the [[Serpentfolk]]. Instead, a similar function was performed by Kovolds calling themselves [[Heretic|Heretics]]
 
-Wild carousing processions starting from [[Chýrusandr]] spread to all the corners of the former empire. Those leaving for the east were soon joined by [[Human|Humans]] and [[Kovold|Kobolds]] who found themselves ownerless in the wake of the [[Withering Blossoms]]. These raucous processions ventured into first [[Lethania]] and [[Izmoroz]], and soon found their way into [[Arcadia]] and [[Ilmbund]], in an event known as the [[Nachýrian Exodus]]. [[Polovina]], by heavily fortifying its borders, was able to keep them out.
+Wild carousing processions starting from [[Chýrussandr]] spread to all the corners of the former empire. Those leaving for the east were soon joined by [[Human|Humans]] and [[Kovold|Kobolds]] who found themselves ownerless in the wake of the [[Withering Blossoms]]. These raucous processions ventured into first [[Lethania]] and [[Izmoroz]], and soon found their way into [[Arcadia]] and [[Ilmbund]], in an event known as the [[Nachýrian Exodus]]. [[Polovina]], by heavily fortifying its borders, was able to keep them out.
 
 
 

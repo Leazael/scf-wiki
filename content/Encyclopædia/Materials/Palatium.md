@@ -1,5 +1,5 @@
 ---
-aliases: []
+aliases: [Vhádanzr]
 tags: [Draconic]
 ---
 

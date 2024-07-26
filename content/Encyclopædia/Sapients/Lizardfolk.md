@@ -1,8 +1,8 @@
 ---
-aliases: [Kozarn, Dragonborn, Troglodyte, Troglodytes]
+aliases: [Kozarn, Kozarnyn, Dragonborn, Troglodyte, Troglodytes]
 tags: [Draconic]
 ---
-Lizardfolk, or Kozarn in their [[Draconic|native tonge]] are a species of reptilian [[Sapient|sapients]], native to [[Nachýr]]. The term Lizardfolk actually encompasses three different types of closely related reptilian races:
+Lizardfolk or Kozarn (Kozarnyn in proper [[Draconic]]) are a species of reptilian [[Sapient|sapients]], native to [[Nachýr]]. The term Lizardfolk actually encompasses three different types of closely related reptilian races:
 - True Lizardfolk, the all-female predominant species, who comprise essentially all "civilized" Lizardfolk.
 - Feral Lizardfolk, also called Troglodytes. A rare nocturnal subspecies who supposedly live in the mountains on the South-Western coast of [[Nachýr]]. A few individuals have been spotted living in [[Vareshian Colonies|Kef Hattikvah]]. 
 - The Highborn or Dragonborn Lizardfolk. A subspecies that was supposedly once part of the [[Nachýr|Nachýrian]] ruling classes together with the [[Serpentfolk]], until the latter fully supplanted the former in an act of genocide.

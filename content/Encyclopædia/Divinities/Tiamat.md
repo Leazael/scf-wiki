@@ -7,13 +7,13 @@ Her rule can reliably traced back to earliest days following the [[Rupture of th
 
 She was known for being a harsh ruler who imposed a strict social hierarchy, with [[Serpentfolk]] at the top, followed by [[Kovold|Kobolds]], and with [[Lizardfolk]] and [[Human|Humans]] and other [[Sapient]] slaves at the very bottom. 
 
-Tiamat was, and by some still is, revered as a [[God]] by the citizens of [[Nachýr]]. Obeisance was typically paid in the form of sacrifices of food, jewlery, precious items and slaves, which were funnelled by the priestly classes to Taimat's palace in [[Chýrusandr]].
+Tiamat was, and by some still is, revered as a [[God]] by the citizens of [[Nachýr]]. Obeisance was typically paid in the form of sacrifices of food, jewlery, precious items and slaves, which were funnelled by the priestly classes to Taimat's palace in [[Chýrussandr]].
 
 # Mythology
 
 Tiamat plays a central role in the [[Nachýrian Religion|religion]] of [[Nachýr]]. She is generally regarded as the egg-sister of the great dead dragon [[Vahamut]], with whom she has always shared a strong rivalry. As such, the veneration of [[Vahamut]] was forbidden to the citizens and slaves of [[Nachýr]].
 
-Within the [[Crucible]] and in particular within the[[Church of Iomedæ]], there is still some discussion related to the divinity of Tiamat. Some belief that the empress Tiamat was indeed a [[God|deity]] physically presiding in [[Chýrusandr]]. Others hold that Tiamat-the-Empress was simply an "aspect" or "avatar" of a greater being.
+Within the [[Crucible]] and in particular within the[[Church of Iomedæ]], there is still some discussion related to the divinity of Tiamat. Some belief that the empress Tiamat was indeed a [[God|deity]] physically presiding in [[Chýrussandr]]. Others hold that Tiamat-the-Empress was simply an "aspect" or "avatar" of a greater being.
 
 # Appearance
 
@@ -25,7 +25,7 @@ In contrast to the classic [[Dragon|draconic]] description of [[Crucible]] schol
 
 Tiamat's presence in history is significant, dating from the founding of the [[Crucible]] and possibly the formation of [[Urth]], until her recent [[Tiamat#Disappearance|disappearance]]. 
 
-Her presence in the [[Crucible]] was first felt in the 6th century, as the [[Nachýr|Nachýrian Empire]] expanded its borders eastwards. This expansion led to conflict with [[Izmoroz]], resulting in the [[War of Frozen Chains ]]from [[566 AF]] to [[581 AF]]. In the aftermath, Tiamat moved her capital eastwards to the newly renamed city of [[Chýrusandr]].
+Her presence in the [[Crucible]] was first felt in the 6th century, as the [[Nachýr|Nachýrian Empire]] expanded its borders eastwards. This expansion led to conflict with [[Izmoroz]], resulting in the [[War of Frozen Chains ]]from [[566 AF]] to [[581 AF]]. In the aftermath, Tiamat moved her capital eastwards to the newly renamed city of [[Chýrussandr]].
 
 In the centuries following the War, increased contact between the [[Crucible]] and [[Nachýr]] caused the worship of Tiamat and its practice of slavery to slowly spread to neighbouring countries. This provoked the [[Church of Iomedæ]] in [[Arcadia]], leading to the launch of the First [[Crusade]] in [[822 AF]]. 
 
