@@ -1,6 +1,6 @@
-The [[Lethania|Lethanian]] Colonies refer to two areas on the south-[[Nachýr|Nachýrian]] coast, and the two cities that have sprung up in their respective centres, [[New Holmgard]] and [[Fort Arkys]].
+The [[Lethania|Lethanian]] Colonies refer to two areas on the south-[[Nachýr|Nachýrian]] coast (on the [[Bay of Corbies]] and [[Tagelsea]] respectively), and the two cities that have sprung up in their respective centres, [[New Holmgard]] and [[Fort Arkys]].
 
-The first colony was established by Lianna [[House Arkys|Arkys]], who bought the land from [[Tiamat]] in [[1614 AF]]. The small fort that she built dubbed [[Fort Arkys]], was primarily used as a trading post, allowing [[Lethania|Lethanian]] ships to dock, and buy up large quantities of spices and resins, especially shellac. 
+The first colony was established by Lianna [[House Arkys|Arkys]], who bought the land from [[Tiamat]] in [[1614 AF]]. The small fort that she built, dubbed [[Fort Arkys]], was primarily used as a trading post, allowing [[Lethania|Lethanian]] ships to dock, and buy up large quantities of spices and resins, especially shellac. 
 
 After the discovery of large [[Kavorinium|Kavorite]] deposits in the 1730s, the colonies quickly expanded in order to support new mining operations and [[Kavorinium]] production plants. 
 
@@ -17,5 +17,5 @@ The Lethanian colonies are also home to small communities of exiled, ostracised 
 
 Perhaps surprisingly, the [[Nachýrian Exodus]] has not led to a large increase in [[Kovold]] population. However, the lack of traditional power structures in the wake of the [[Withering Blossoms]] has led to more [[Kovold|Kovolds]] finding careers in more [[Lethania|Lethanian]] industries, such as the navy, or the [[Kavorinium]]-production plants.
 
-# The [[Muræne]]
-Due to its proximity to [[Murænia]] on the other side of the [[Tagelsea]], [[New Holmgard]] especially has seen relatively frequent attacks or incursions from the [[Muræne]]. These attacks often take the form of twisted [[Undead]] [[Human|Humans]] simply walking out of the sea and attacking whatever is in their path. Sometimes these attacks are accompanied by strange [[Magic|magics]].
+# The [[Muræne|Murænes]]
+Due to its proximity to [[Murænia]] on the other side of the [[Tagelsea]], [[New Holmgard]] especially has seen relatively frequent attacks or incursions from the [[Muræne|Murænes]]. These attacks often take the form of twisted [[Undead]] [[Human|Humans]] simply walking out of the sea and attacking whatever is in their path. Sometimes these attacks are accompanied by strange [[Magic|magics]].

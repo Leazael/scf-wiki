@@ -3,7 +3,7 @@ aliases: [Polovian, Grand Duchy, Grand Duchy of Polovina]
 ---
 The Grand Duchy of Polovina is a country formed from the former [[Lethania|Lethanian]] provinces of [[Fenwald]] and [[Væringard]] and sizable parts of [[Thurandir]] after the [[Lethanian War of Separation]]. It was later expanded to include areas formerly part of south-eastern [[Las]], in particular [[Pyelchek]].
 
-Polovina is a militaristic autocratic government ruled by [[Grand-Duchess Adelheid Denris-Bern]] who succeeded her father Siegfried 12 years ago. It maintains the old tradition of the [[Great Joust]], which is consistently won by the Wyvern-riding branch of the [[House of Denris-Bern|Unified House]] of [[House Denris|Denris]]-[[House Bern|Bern]].
+Polovina is a militaristic autocratic government ruled by Grand-Duchess [[Adelheid Denris-Bern]] [[Adelheid Denris-Bern]] who succeeded her father Siegfried 12 years ago. It maintains the old tradition of the [[Great Joust]], which is consistently won by the Wyvern-riding branch of the [[House of Denris-Bern|Unified House]] of [[House Denris|Denris]]-[[House Bern|Bern]].
 
 The capital of [[Polovina]] is the city of [[Drysfurt]]. The primary language spoken in Polovina is [[Ildarin]], though [[Sosulkan]] is more common in the western part of the country. It is considered one of the [[Philosophical Powers]]
 

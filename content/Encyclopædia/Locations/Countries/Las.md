@@ -7,7 +7,7 @@ These [[Princesses of Las|princesses]] appeared simultaneously over one thousand
 
 Ever since, these [[Princesses of Las|princesses]] have ruled the various city-states of Las, apparently unaging and eternal, although many stories circulate about these [[Princesses of Las|princesses]] in their youth.
 
-[[Lagushka]] and [[Pyelchek]] used to be Lassian territories, but after the disappearance of the [[Princesses of Las|princesses]], they have been annexed by [[Polovina]].
+The lands surrounding [[Pyelchek]] used to be Lassian territory, but after the disappearance of its [[Princesses of Las|princesses]], it has been annexed by [[Polovina]].
 
 The primary language of Las is [[Sosulkan]], though [[Ildarin]] is often spoken as a secondary language near the border with [[Polovina]]. 
 

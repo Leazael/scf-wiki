@@ -4,4 +4,4 @@ Most he the province is covered by the eponymous Fenwald, a large forest separat
 
 Fenwald is still viewed as a primitive, dangerous and superstitious place. 
 
-The province used to be ruled by [[House Denris]], known for riding their direwolves into battle. This family merged with [[House Bern]] to form the joined [[House of Denris-Bern]], of which [[Grand-Duchess Adelheid Denris-Bern]] is its most influential member.
+The province used to be ruled by [[House Denris]], known for riding their direwolves into battle. This family merged with [[House Bern]] to form the joined [[House of Denris-Bern]], of which Grand-Duchess [[Adelheid Denris-Bern]] is its most influential member.

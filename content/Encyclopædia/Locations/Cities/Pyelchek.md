@@ -1,3 +1,3 @@
-#draft 
-A city, formerly in [[Las]], in modern [[Sosulkan]]-speaking [[Polovina]].
-It joined [[Polovina]] in [[1757 AF]] after the mysterious disappearance of its [[Princesses of Las|princess]].
+Las is a city in the north-west of [[Polovina]], at the foothills of the [[Fomorian Mountains]]. Pyelchek was historically part of [[Las]]. It only recently joined the [[Polovina|duchy]] in [[1757 AF]], following the mysterious disappearance of its [[Princesses of Las|princess]].
+
+In the 1740s, Pyelchek joined the city of [[Lagushka]] in supporting the [[Revelationary Politics|counter-revelationary]] [[Allied Forces]] during the [[Lethanian War of Separation]].

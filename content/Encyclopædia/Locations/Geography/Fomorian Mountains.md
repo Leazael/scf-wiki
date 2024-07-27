@@ -1,7 +1,5 @@
-#draft 
-A mountain range separating [[Izmoroz]] from [[Polovina]].
-Meets with the [[Nemedian Mountains]] in the south and the [[Czar's Crown Mountains]] in the west.
+The Fomorian Mountains comprise the mountain range that separate [[Izmoroz]] to the west and [[Polovina]] and [[Lethania]] to the east. 
 
-Houses [[Dwarf|dwarves]].
+The mountain chain meets meets with the [[Nemedian Mountains]] in the south, with the country of [[Dalriada]] nestled between the two. To the north and west, a separate arm known as the [[Czar's Crown Mountains]] forms a natural border between [[Las]] to the north and [[Izmoroz]] to the south.
 
-[[Las]], [[Izmoroz]], [[Dalriada]], [[Lethania]] and [[Polovina]].
+The mountains used to be home to a large population of [[Dwarf|dwarves]]. However, the traditional [[Dwarf|dwarven]] mines have either largely dried up, or have been outcompeted by the [[Natural Philosophy|Philosophical]] methods employed by the countries east of the mountains. As such, most dwarves have either migrated to [[Dvårgheim]], or moved to other urban centers closer to the mountains.

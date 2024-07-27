@@ -2,4 +2,4 @@ Væringard is a mountainous former province of [[Lethania]] that together with [
 
 Even before the [[Lethanian War of Separation]], [[Væringard]] possessed one of the most dominant armies of the [[Crucible]]. 
 
-The province used to be ruled by the wyvern-mounted [[House Bern|Bern family]]. This family merged with [[House Denris]] to form the joined House of Denris-Bern, of which [[Grand-Duchess Adelheid Denris-Bern]] is its most influential member.
+The province used to be ruled by the wyvern-mounted [[House Bern|Bern family]]. This family merged with [[House Denris]] to form the joined House of Denris-Bern, of which Grand-Duchess [[Adelheid Denris-Bern]] [[Adelheid Denris-Bern]] is its most influential member.

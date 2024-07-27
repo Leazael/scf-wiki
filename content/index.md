@@ -103,6 +103,7 @@ Collected Lore pages:
   - [[Gremlin]]
   - [[King Under the Mountains]]
   - [[Undead]]
+  - [[Vampire]]
 - Divinities
   - [[Iomedæ]]
   - [[Old Sosulkan Gods]]
@@ -151,6 +152,8 @@ Collected Lore pages:
     - [[Seminary of Aldsbury]]
     - [[University]]
   - Political
+    - [[Allied Forces]]
+    - [[Corridor]]
     - [[Great Guilds of Ilmbund]]
     - [[House Arkys]]
     - [[House Bern]]
@@ -179,8 +182,10 @@ Collected Lore pages:
     - [[Temple of Tiamat]]
 - Languages
   - [[Ancient Languages]]
+  - [[Anglic]]
   - [[Celestial]]
   - [[Draconic]]
+  - [[Dvårgish]]
   - [[Elven]]
   - [[Ildarin]]
   - [[Lingua Alta]]
@@ -206,10 +211,12 @@ Collected Lore pages:
     - [[Ilm's Watch]]
     - [[Klingeborn]]
     - [[Krelich]]
+    - [[Lagushka]]
     - [[Lgárnach]]
     - [[Maidenshrine]]
     - [[New Holmgard]]
     - [[Ornsheill]]
+    - [[Pyelchek]]
     - [[Sosulka]]
     - [[Sälen]]
     - [[Tel Varesh]]
@@ -228,21 +235,28 @@ Collected Lore pages:
     - [[Polovina]]
     - [[Ruïn]]
     - [[Thrjoskarland]]
+    - [[Vahestan]]
     - [[Vareshian Commonwealth]]
     - [[Voyvetera]]
     - [[Yádor]]
   - Geography
+    - [[Bay of Corbies]]
     - [[Blightsea]]
     - [[Cacotopic Warp]]
     - [[Crucible]]
+    - [[Dimmerwold]]
+    - [[Fomorian Mountains]]
     - [[Gulf of Varesh]]
     - [[Göllnyr Mountains]]
     - [[Krinse]]
+    - [[Lokastunga]]
     - [[Myrk]]
+    - [[Nemedian Mountains]]
     - [[Rime Sea]]
     - [[Ruijnvaart]]
     - [[Strait of Drakul]]
     - [[Thryr]]
+    - [[Thurmork]]
     - [[Vahestan Sea]]
     - [[Volkhov]]
     - [[Wilted Ocean]]
@@ -283,6 +297,7 @@ Collected Lore pages:
   - [[Saint Alia]]
   - [[Saint Omelas]]
   - [[Thrjoská]]
+  - [[Vladimir Denris]]
   - [[Váida Khan]]
 - Sapients
   - [[Boazulmoš]]
@@ -305,12 +320,13 @@ Collected Lore pages:
   - [[Ork]]
   - [[Ratfolk]]
   - [[Sapient]]
+  - [[Serpentfolk]]
   - [[Tengu]]
   - [[Treant]]
   - [[Troll]]
 
-Data: 260 pages completed, 36 in draft, 357 keywords.
+Data: 276 pages completed, 21 in draft, 357 keywords.
 
-58479 words written. 7061 unique words.
+60302 words written. 7142 unique words.
 
-Last updated 2024-07-26 22:58.
+Last updated 2024-07-27 23:01.
