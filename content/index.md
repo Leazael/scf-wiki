@@ -126,6 +126,8 @@ Collected Lore pages:
     - [[Crusade]]
     - [[Elven Genocide]]
     - [[Lethanian War of Separation]]
+    - [[Lethanian-Vareshian Expeditions]]
+    - [[Massacre of Eldmere]]
     - [[Peace of Weißenfels]]
     - [[Rainbow Blaze of Aldsbury]]
     - [[Silent War]]
@@ -146,6 +148,7 @@ Collected Lore pages:
     - [[Magus]]
     - [[Shining Academy]]
   - Learning
+    - [[Academy of Weißenfels]]
     - [[College of Elbisborg]]
     - [[Exalted School of Tel Varesh]]
     - [[Hermetic Lodge]]
@@ -194,6 +197,7 @@ Collected Lore pages:
   - [[Sosulkan]]
 - Locations
   - Celestial
+    - [[Cinis]]
     - [[Cosmic Spheres]]
     - [[Elsar]]
     - [[Foreworld]]
@@ -205,6 +209,7 @@ Collected Lore pages:
     - [[Aldsbury]]
     - [[Chýrussandr]]
     - [[Covenant]]
+    - [[Dimmerschluß]]
     - [[Echsee]]
     - [[Elbisborg]]
     - [[Førnheller]]
@@ -235,6 +240,7 @@ Collected Lore pages:
     - [[Polovina]]
     - [[Ruïn]]
     - [[Thrjoskarland]]
+    - [[Urrun]]
     - [[Vahestan]]
     - [[Vareshian Commonwealth]]
     - [[Voyvetera]]
@@ -245,6 +251,7 @@ Collected Lore pages:
     - [[Cacotopic Warp]]
     - [[Crucible]]
     - [[Dimmerwold]]
+    - [[Five-Coloured Sea]]
     - [[Fomorian Mountains]]
     - [[Gulf of Varesh]]
     - [[Göllnyr Mountains]]
@@ -252,9 +259,12 @@ Collected Lore pages:
     - [[Lokastunga]]
     - [[Myrk]]
     - [[Nemedian Mountains]]
+    - [[Our-Valiant-Lady Sea]]
     - [[Rime Sea]]
     - [[Ruijnvaart]]
+    - [[Shimmering Straits]]
     - [[Strait of Drakul]]
+    - [[Tagelsea]]
     - [[Thryr]]
     - [[Thurmork]]
     - [[Vahestan Sea]]
@@ -297,6 +307,7 @@ Collected Lore pages:
   - [[Saint Alia]]
   - [[Saint Omelas]]
   - [[Thrjoská]]
+  - [[Twelve Paladins]]
   - [[Vladimir Denris]]
   - [[Váida Khan]]
 - Sapients
@@ -325,8 +336,8 @@ Collected Lore pages:
   - [[Treant]]
   - [[Troll]]
 
-Data: 276 pages completed, 21 in draft, 357 keywords.
+Data: 287 pages completed, 10 in draft, 363 keywords.
 
-60302 words written. 7142 unique words.
+62582 words written. 7260 unique words.
 
-Last updated 2024-07-27 23:01.
+Last updated 2024-07-30 00:21.

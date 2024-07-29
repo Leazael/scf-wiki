@@ -15,9 +15,9 @@ Arcadia shares a border with [[Lethania]], [[Ilmbund]] and [[Ruïn]]. Since [[17
 
 In the year [[526 AF]] the first settlers from across the [[Wilted Ocean]] appeared on the [[Crucible]], landing on the [[Step-Stone Isles]] somewhere near the modern-day city of [[Providence]]. These settlers came by boat from a [[Vahestan|distant country]] across the ocean and settled on the shores of what would later become [[Arcadia]]. With them they brought the [[Three Lays]], the [[Six Tenets]] and the [[Nine Parables]]; the [[Iomedæan Canon]] of the [[Church of Iomedæ|Church]] of [[Iomedæ]]. A religion that would later be one of the foremost religions of the Crucible.
 
-In [[584 AF]], the Throne of [[Arcadia]] was raised in their newly named capital of [[Covenant]] and the first Priest-King, the legendary [[St. Uther]] of [[Arcadia]], was crowned.
+In [[584 AF]], the Throne of [[Arcadia]] was raised in their newly named capital of [[Covenant]] and the first Priest-King, the legendary [[Saint Uther]] of [[Arcadia]], was crowned.
 
-Over the course of several decades, [[Arcadia]] grew in size and power. By combining small local war-efforts with shrewd politics, [[Arcadia]] slowly conquered much of the thus far independent lands south of [[Ilmbund|Ilm]], until they had secured nearly all of the [[Our-Valiant-Lady Sea|White Coast]] as well as many of the islands in the [[Shimmering Straits]].
+Over the course of several decades, [[Arcadia]] grew in size and power. By combining small local war-efforts with shrewd politics, [[Arcadia]] slowly conquered much of the thus far independent lands south of [[Ilmbund|Ilm]], until they had secured nearly all of the [[Our-Valiant-Lady Sea|White Coast]] as well as many of the [[Step-Stone Isles|islands]] in the [[Shimmering Straits]].
 
 In the meantime, increased contact between the [[Crucible]] and [[Nachýr]] caused the worship of [[Tiamat]], the Dragon-Queen of [[Nachýr]] to slowly spread out towards neighbouring countries. This provoked the established [[Church of Iomedæ]] in [[Arcadia]] to the point that in [[822 AF]] the First [[Crusade]] was launched. 
 

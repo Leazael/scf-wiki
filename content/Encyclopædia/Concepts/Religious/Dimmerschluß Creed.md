@@ -3,7 +3,7 @@ aliases: [Synod of Dimmerschluß]
 ---
 A common creed adopted in [[1762 AF]] by the [[Sosulkan Churches of Iomedæ]], the [[Orthodox Synodal Church of Iomedæ]] (i.e., the [[Synodal Church of Iomedæ]]) as well as several [[Asynodal Churches of Iomedæ|Asynodal Churches]] in the wake of their joint intervention during the [[Thanatogenic Ghost Storm]] caused by a failed [[Yádor|Yádorian]] mass-invasion.
 
-As the name suggests, the creed was formulated in the [[Ilmbund|Ilmian]] city of [[Dimmerschluß]], during the great Synod of Dimmerschluß.
+As the name suggests, the creed was formulated in the [[Ilmbund|Ilmian]] city of [[Dimmerschluß]], during the great Synod of [[Dimmerschluß]].
 
 The creed highlights the following topics:
  - [[Iomedæ]] is the only [[God]] worth worshipping.

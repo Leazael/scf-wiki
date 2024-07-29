@@ -3,7 +3,9 @@ aliases: [Hermetic, Hermetic Philosopher, Hermetic Philosophers, Hermetic Dialec
 ---
 Hermetic philosophy is a branch of [[Natural Philosophy]] that studies the forces and phenomena often referred to as [[Magic]]. Hermetic philosophy was developed in the wake of the [[Revelationary Revolution|Apocalyptic Revolution]], and in particular the [[Warlock's Revolt]].
 
-Most Hermetic Philosophy has been developed at the [[College of Elbisborg]], which boasts the only formal department of Hermetic Philosophy. Nonetheless, informal groups studying Hermetic Philosophy have also formed around the other [[University|Universities]], and some independent [[Hermetic Lodge|Hermetic Lodges]] dedicated to its study have appeared as high-society clubs.
+Since the foundation of its department of [[Hermetic Philosophy]] in [[1738 AF]], the [[College of Elbisborg]] has been the preeminent school for the formal study of [[Hermetic Philosophy]]. While the [[Academy of Weißenfels]] opened its own departement in [[1757 AF]], its department has always been smaller and more applied.
+
+Informal groups studying Hermetic Philosophy have also formed around the [[Seminary of Aldsbury]] and other less prestigious schools, and some independent [[Hermetic Lodge|Hermetic Lodges]] dedicated to its study have appeared as high-society clubs.
 
 Practitioners and students of Hermetic Philosophy have formed a corpus of research not only detailing the practice and development of hermetic spells, but also providing a framework that can be used to study other mortal magical traditions. This includes the traditions of [[Wild Magic]], the [[Ways and Means]] practiced by craftsmen and artificers, and even [[Tel Varesh|Vareshian]] [[Thaumaturgy]].
 

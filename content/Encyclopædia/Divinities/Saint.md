@@ -9,20 +9,25 @@ Tradition divides Saints into two or three categories, namely lesser and greater
 These Saints are those recognized within the [[Iomedæan Canon]]. As such they include the [[Twelve Paladins]]. 
 
 Examples include:
-- [[Saint Alia|St. Alia]]
+- [[Saint Alagast]]
+- [[Saint Alia]]
+- [[Saint Eve]]
+- [[Saint Lucius]]
+- [[Saint Salomon]]
+- [[Saint Trista]]
 
 # Lesser Saints
 Lesser saints are those who reached acclaim during the existence of the [[Church of Iomedæ]] in the [[Crucible]]. Lesser Saints are often, though not exclusively, local figures. Many of them are patron saints of arts, crafts trades, or even particular institutions.
 
 Examples include:
-- [[St. Uther]]
+- [[Saint Uther]]
 - [[Saint Omelas]]
 
 # Primordial Saints
 The primordial saints are entities venerated like saints, in the sense that they may intercede directly with [[Iomedæ]] herself, but do not have existences that can be traced back to mortal lives. 
 
 Generally, they include the four [[Angel|Archangels]]:
-- St. [[Angel|Michaël]]
-- St. [[Angel|Sandalphon]]
-- St. [[Angel|Remiel]]
-- St. [[Angel|Zaphkiel]]
+- Saint [[Angel|Michaël]]
+- Saint [[Angel|Sandalphon]]
+- Saint [[Angel|Remiel]]
+- Saint [[Angel|Zaphkiel]]

@@ -1,5 +1,7 @@
-#draft 
+The Academy of [[Weißenfels]] is the preeminent pre-eminent place of learning in [[Lethania]], and one of the three [[University|Universities]] that can be found in the [[Crucible]]. As its name suggests, it is located in the city of [[Weißenfels]], the capital of the [[Lethania|Lethanian]] province of [[Yrsingen]].
 
-A [[University]] in [[Weißenfels]], [[Yrsingen]], [[Lethania]].
+The Academy was founded in [[925 AF]] by members of house [[House Winselniß]]. Since the beginning of the Foremodern era with the invention of the steam-locomotive the 1670s, the Academy has gained a reputation for [[Natural Philosophy|applied philosophy]].
 
-Less Hermetic Summining, to appease synodal students.
+The Academy is most well known for its successes in [[Aviation]] and the constructions of [[Automaton|Automatons]]. The famous [[Rotwang the Brassman]] was crafted at the Academy. More recently, the academy has become the main centre for all studies relating to [[Catastrophe Theory]] and [[Ordinator|Ordination]].
+
+In [[1757 AF]], the Academy opened a departement of [[Hermetic Philosophy]] following a large influx of subsidies due to the [[Massacre of Eldmere]]  and the start of the [[Lethanian-Vareshian Expeditions]]. This department has attempted to develop its own curriculum with less focus on the study of [[Transliminal Invocation]]. (Possibly due to the relatively large number of [[Synodal Church of Iomedæ|Synodal]] students, compared to the [[College of Elbisborg]].)

@@ -18,18 +18,20 @@ The Casting, or _Giettijd_ in [[Ildarin]], refers to the era that shaped most la
 - [[566 AF]]: The start of the [[War of Frozen Chains]].
 - [[581 AF]]: The end of the [[War of Frozen Chains]].
 - [[581 AF]]: [[Chýrussandr]] is made the capital of [[Nachýr]].
-- [[584 AF]]: [[Arcadia]] is founded and [[St. Uther]] is crowned as its first Priest-King.
+- [[584 AF]]: [[Arcadia]] is founded and [[Saint Uther]] is crowned as its first Priest-King.
+- [[599 AF]]: The [[College of Elbisborg]] is founded.
 - [[697 AF]]: The start of the [[Year Without Dawn]].
 - [[697 AF]]: The city-states of [[Las]] gain independence from [[Izmoroz]].
 - [[698 AF]]: The end of the [[Year Without Dawn]].
 
 # The Working
-The Working, or _Bewerktijd_ in [[Ildarin]] is the era spanning the first through third [[Crusade|Crusades]] and the [[Crusade|Counter Crusade]]. During this era, much of the relationships between the different countries in the [[Crucible]] were shaped.
+The Working, or _Bewerktijd_ in [[Ildarin]], is the era spanning the first through third [[Crusade|Crusades]] and the [[Crusade|Counter Crusade]]. During this era, much of the relationships between the different countries in the [[Crucible]] were shaped.
 
 - [[822 AF]]: The first [[Crusade]] is launched by [[Henry II]].
 - [[828 AF]]: [[Saint Omelas]] rescues a ship of slave children.
 - [[830 AF]]: [[Henry II]] dies and is succeeded by [[Richaerd II]].
 - [[831 AF]]: The first [[Crusade]] ends.
+- [[925 AF]]: The [[Academy of Weißenfels]] is founded.
 - [[1017 AF]]: The [[Crusade|Counter Crusade]] is launched by [[Tiamat]].
 - [[1018 AF]]: The [[Ilm's Watch|Sack of Ilm's Watch]].
 - [[1021 AF]]: The [[Crusade|Counter Crusade]] comes to an end.
@@ -65,7 +67,6 @@ The Foremodern Era, or _Voormoderne Tijdperk_ in [[Ildarin]] refers to the first
 - [[1711 AF]]: The [[Guild of Clockworkers]] replaces the Guild of Carpenters in the [[Triumvirate of Ilmbund|Ilmian Triumvirate]].
 - [[1726 AF]]: [[Holmgard]] [[Cacotopic Warp|pivots]] for the first time.
 - [[1726 AF]]: The [[Shining Academy]] closes their embassies in the [[Crucible]].
-- [[1726 AF]]: The [[Planet|Planets shrink]].
 - [[1728 AF]]: [[Arcadia]] launches a series of navel expeditions into [[Nachýr|Nachýrian]] territory. The ensuing skirmishes threaten [[Hèrlmersc]].
 - [[1728 AF]]: [[Lethania]] intervenes again in the conflict between [[Arcadia]] and [[Nachýr]], by sending naval blockades to prevent further attacks on [[Nachýr]].
 - [[1729 AF]]: Peace is enforced between [[Nachýr]] and [[Arcadia]] by [[Lethania]]. 
@@ -89,6 +90,7 @@ The Revolutionary Decade refers to the years spanning the [[Revelationary Revolu
 - [[1737 AF]]: [[Mary VIII]] passes many pro-[[Revelationary Revolution|Apocalyptic]] reforms, leading to much resistance from the [[Synod]].
 - [[1737 AF]]: The [[Secession of '37]] happens, when the [[Sosulkan Churches of Iomedæ|Sosulkan Churches]] formally separate from the [[Synod]] in protest to the new reforms.
 - [[1738 AF]]: [[Arcadia]] holds its first general election for its new parliament in [[Beorminster]].
+- [[1738 AF]]: [[Arora van Finsterling|Prof. van Finsterling]] opens the first department dedicated to the study of [[Hermetic Philosophy]] at the [[College of Elbisborg]].
 - [[1740 AF]]: The [[Great Joust]] of [[Lethania]] is won by the aggressively anti-[[Revelationary Revolution|Apocalyptic]] [[Vladimir Denris]] of [[Fenwald]].
 - [[1741 AF]]: [[Vladimir Denris]] tries to force the southern [[Lethania|Lethanian]] provinces to revert their [[Revelationary Revolution|Apocalyptic]] reforms.
 

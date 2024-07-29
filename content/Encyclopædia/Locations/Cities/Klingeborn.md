@@ -1,4 +1,4 @@
-Klingeborn is a city in [[Lethania]], on the border between [[Lethania]] and [[Dvårgheim]].
+Klingeborn is a city in the [[Yrsingen]] province of [[Lethania]], on the border between [[Lethania]] and [[Dvårgheim]].
 
 The city was the capital of the former [[Lethania|Lethanian]] province [[Thurandir]] and was ruled by [[House Eburin]]. During the [[Lethanian War of Separation]], the city was briefly taken over by [[Polovina]] but was quickly liberated through the intervention of [[Dvårgheim]]. After the [[Peace of Weißenfels]], [[House Eburin]] and roughly half of the province joined [[Polovina]], but Klingeborn itself elected to remain [[Lethania|Lethanian]].
 

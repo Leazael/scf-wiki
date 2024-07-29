@@ -3,6 +3,19 @@
 @use "./syntax.scss";
 @use "./callouts.scss";
 
+body,
+section {
+  margin: 0;
+  max-width: 100%;
+  box-sizing: border-box;
+  background-color: var(--light);
+  font-family: var(--bodyFont);
+  color: var(--darkgray);
+  text-align: justify;
+	text-justify: inter-word;	
+}
+
+
 .page {
     @media all and (max-width: $fullPageWidth) {
       margin: 0 auto;

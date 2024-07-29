@@ -1,3 +1,1 @@
-#draft 
-Large sea between [[Vahestan]] proper and the [[Arcadian Colonies]].
-Connects to the [[Wilted Ocean]].
+The Five-Coloured Sea is a large sea between the mainland of [[Vahestan]] and the [[Arcadian Colonies|colonised]] isles off its coast. It is considered part of the [[Wilted Ocean]].

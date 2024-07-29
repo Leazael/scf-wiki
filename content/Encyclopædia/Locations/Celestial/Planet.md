@@ -7,4 +7,4 @@ In practice, the words "planet" and "moon" are used largely interchangeably. How
 
 ![[dynamics.png]]
 
-The largest planets, as seen from [[Urth]] are Narkin and Verðandi, whose apparent magnitude is a fixed 4.8° and 3.3° respectively. Most other planets appear between 0.25° and 1.5° in size, with magnitudes varying from season to season. The planet [[Cinis]] is especially variable: while it is usually between 0.6 and 1.5 degrees, it sometimes grows quickly in the course of a day, growing larger than even Verðandi.
+The largest planets, as seen from [[Urth]] are Narkin and [[Verðandi]], whose apparent magnitude is a fixed 4.8° and 3.3° respectively. Most other planets appear between 0.25° and 1.5° in size, with magnitudes varying from season to season. The planet [[Cinis]] is especially variable: while it is usually between 0.6 and 1.5 degrees, it sometimes grows quickly in the course of a day, growing to as muich as 3.8 degrees, lerger even than [[Verðandi]].

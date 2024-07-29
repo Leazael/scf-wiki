@@ -19,7 +19,7 @@ The following countries are usually included in the Crucible proper:
 - [[Las]]
 - [[Izmoroz]]
 
-Other countries in the region include
+Other countries in the region include:
 - [[Yádor]]
 - [[Vareshian Commonwealth|Commonwealth]] of [[Tel Varesh]] 
 - [[Thrjoskarland]]

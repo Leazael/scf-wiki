@@ -4,4 +4,4 @@ In the [[Three Lays|Lay of Blood]] if the [[Iomedæan Canon]], it is told that a
 
 The Sheathed Sword, or the Sword in the Scabbard, is a symbol often associated with both [[Iomedæ]] and her [[Church of Iomedæ|Church]].
 
-In the early days of the founding of [[Arcadia]], the Scabbard was a popular plot device in several tales of morality and chivalry. The [[St. Uther|Pendragonian]]  [[Scabbard Cycle]] is perhaps the most famous piece of fiction revolving around the mystical Scabbard.
+In the early days of the founding of [[Arcadia]], the Scabbard was a popular plot device in several tales of morality and chivalry. The [[Saint Uther|Pendragonian]]  [[Scabbard Cycle]] is perhaps the most famous piece of fiction revolving around the mystical Scabbard.

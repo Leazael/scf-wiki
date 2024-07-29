@@ -9,6 +9,8 @@ Lethania and [[Polovina]] used to be part of the Lethanian Confederacy, but have
 
 Lethania shares a border with [[Nachýr]], [[Dalriada]], [[Izmoroz]], [[Polovina]], [[Dvårgheim]], [[Ilmbund]] and [[Arcadia]]. It has a sizable [[Lethanian Colonies|colonies]] in the south of [[Nachýr]], specifically around the cities of [[New Holmgard]] and [[Fort Arkys]]. 
 
+Modern day Lethania is often separated into four provinces, [[Yrsingen]], [[Averion]], [[Hèrlmersc]] and the [[Step-Stone Isles|Step-Stones]],
+
 Lethania is home to one of the most respected [[University|Universities]] in the [[Crucible]], namely the [[Academy of Weißenfels]], located in [[Weißenfels]], [[Yrsingen]].
 
 # History

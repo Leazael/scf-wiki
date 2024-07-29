@@ -1,5 +1,5 @@
 ---
-aliases: [Alchemist, Alchemists]
+aliases: [Alchemist, Alchemists, Alchemical]
 ---
 
 Alchemy is the [[Natural Philosophy|philosophy]] of substances and their properties, and how these affect and are affected by the natural world. Alchemy is the oldest of the [[Natural Philosophy|Philosophical]] traditions practised in the [[Crucible]]. 

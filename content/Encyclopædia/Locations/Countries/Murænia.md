@@ -1,5 +1,5 @@
 ---
-aliases: [Murænian]
+aliases: [Murænian, Murænenstadt]
 ---
 Murænia is a name used for both the domain of the [[Muræne|Murænes]] and the only known city therein. The Murænian domain encompasses a set of large islands in the [[Wilted Ocean]] of the coast of [[Nachýr]], across the [[Tagelsea]].
 
@@ -19,8 +19,8 @@ This settlement is built on the ocean floor, south of the passage between the tw
 The structure was heavily damaged after a series of depth-bombing campaigns during the [[Lethanian-Vareshian Expeditions|Third and Fourth Expeditions]].
 
 # Islands
-No sailor has ever set foot on the Islands of Murænia. However, [[Aviation|Æronautic Survailence]] has suggested that some sparse settlements occupy these islands. They also report on several queer cyclopean structures on the larger isles. 
+No sailor has ever set foot on the Islands of Murænia. However, [[Aviation|Æronautic Surveillance]] has suggested that some sparse settlements occupy these islands. They also report on several queer cyclopean structures on the larger isles. 
 
-A few [[Vareshian Commonwealth|Vareshian]] [[Thaumaturgy|Thaumaturges]] claim that the [[Muræne|Murænes]] breed [[Sapient|sapients]] on these islands as stock for their [[Necromancy|Necromatic]] [[Undead|labour force]]. 
+A few [[Vareshian Commonwealth|Vareshian]] [[Thaumaturgy|Thaumaturges]] claim that the [[Muræne|Murænes]] breed [[Sapient|sapients]] on these islands as stock for a [[Necromancy|necromantic]] [[Undead|labour force]]. 
 
 A few eye-witness accounts of the [[Massacre of Eldmere]] verify that, indeed, [[Undead]] are to some degree employed by the [[Muræne|Murænes]].
