@@ -5,7 +5,7 @@ The [[Revelationary Politics|Revelationary]] People's Republic of South-Lethania
 
 The capital of Lethania is [[Eldmere]]. The primary language of Lethania is [[Ildarin]]. It is considered one of the [[Philosophical Powers]]. 
 
-Lethania and [[Polovina]] used to be part of the Lethanian Confederacy, but have split since the [[Lethanian War of Separation]], during which it allied with [[Ilmbund]] against the [[Arcadia|Arcadian]] supported [[Polovina]]. Its former capital, [[Holmgard]] was effectively destroyed during the [[Cacotopic Warp]]. ([[1745 AF]])
+Lethania and [[Polovina]] used to be part of the [[Lethanian Confederacy]], but have split since the [[Lethanian War of Separation]], during which it allied with [[Ilmbund]] against the [[Arcadia|Arcadian]] supported [[Polovina]]. Its former capital, [[Holmgard]] was effectively destroyed during the [[Cacotopic Warp]]. ([[1745 AF]])
 
 Lethania shares a border with [[Nachýr]], [[Dalriada]], [[Izmoroz]], [[Polovina]], [[Dvårgheim]], [[Ilmbund]] and [[Arcadia]]. It has a sizable [[Lethanian Colonies|colonies]] in the south of [[Nachýr]], specifically around the cities of [[New Holmgard]] and [[Fort Arkys]]. 
 
@@ -14,7 +14,7 @@ Modern day Lethania is often separated into four provinces, [[Yrsingen]], [[Aver
 Lethania is home to one of the most respected [[University|Universities]] in the [[Crucible]], namely the [[Academy of Weißenfels]], located in [[Weißenfels]], [[Yrsingen]].
 
 # History
-Lethania was founded in [[0 AF]], in the city of [[Holmgard]] by a group of families who desired to unite against the encroaching borders of [[Izmoroz]] and the armies of [[Koschei the Deathless]], as well as against the [[Yádor|Yádorian]] Hordest to the east.
+Lethania was founded in [[0 AF]], in the city of [[Holmgard]], then called [[Holmgard|Lethan]], by a group of families who desired to unite against the encroaching borders of [[Izmoroz]] and the armies of [[Koschei the Deathless]], as well as against the [[Yádor|Yádorian]] Hordes to the east.
 
 Over the next few centuries, the [[Lethania|Lethanian]] Lords carved out a large swath of territory between the [[Rime Sea]] and the [[Wilted Ocean]], east of the [[Fomorian Mountains]]. 
 

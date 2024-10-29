@@ -29,7 +29,7 @@ Despite these beliefs, the church tolerates the worship or recognition of any no
 # Structure
 The church is effectively split into two separate branches, the [[Synodal Church of Iomedæ]] and the [[Asynodal Churches of Iomedæ]]. The former can be further split into the [[Orthodox Synodal Church of Iomedæ]] and the [[Sosulkan Churches of Iomedæ]].
 
-Regarding the [[Asynodal Churches of Iomedæ]], churches that did not maintain formal contact with the [[Synod]] have always existed, but it was not until the events leading up to the [[Revelationary Revolution]] that their number became significant.
+[[Asynodal Churches of Iomedæ|Asynodal Churches]], that is, churches that do not maintain formal contact with the [[Synod]], have always existed, but it was not until the events leading up to the [[Revelationary Revolution]] that their number became significant.
 
 The [[Synodal Church of Iomedæ]] and many [[Asynodal Churches of Iomedæ]] do agree on the doctrine, if not the structure of the church. This doctrine is summarized in the [[Dimmerschluß Creed]].
 
@@ -65,3 +65,5 @@ The fourth and final is All Hallows' Eve. On this day people give thanks for the
 The Church of Iomedæ endorses four main literary works: the [[Three Lays]], the [[Six Tenets]], the [[Nine Parables]] and the [[Book of Canon Law]]. Together, these works are known as The [[Iomedæan Canon]]. 
 
 The oldest (roughly 1900 years old) known versions of [[Iomedæan Canon|The Canon]] hail from [[Vahestan]] and were written in the [[Celestial]] Tongue. Modern versions are more commonly available in [[Anglic]], but [[Synod|sanctioned]] and [[Asynodal Churches of Iomedæ|unsanctioned]] translations can be found in both [[Ildarin]], [[Sosulkan]] and even [[Dvårgish]]. Since the invention of the printing press and movable type, the Canon has become one of the most printed books in the [[Crucible]].
+
+More recently, a text known as the [[Dimmerschluß Creed]] has been adopted by both the [[Synodal Church of Iomedæ|Synodal Church]] as well as many [[Asynodal Churches of Iomedæ|asynodal]] churches. This creed outlies what they believe is the core doctrine of the church.

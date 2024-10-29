@@ -16,7 +16,7 @@ The beliefs espoused by the celebrants have even worked their way into new forms
 # Celebrations 
 Celebrations generally take the form of long festive processions, centred around the [[Palatium]] reliquaries, which supposedly contain fragments of [[Vahamut#Exhumation|Vahamut's corpse]]. At the end of the procession, the reliquary is opened, and the fragment is used to draw a broth, which is subsequently consumed by the celebrants. 
 
-Despite its recent origins, the Celebration of [[Vahamut]] has already had a considerable influence on the art, culture and religion of the forge. The music played during the processions has been used as a basis for many new [[Vanguardian|vanguardian]] music styles.
+Despite its recent origins, the Celebration of [[Vahamut]] has already had a considerable influence on the art, culture and religion of the [[Crucible]]. The music played during the processions has been used as a basis for many new [[Vanguardian|vanguardian]] music styles.
 
 
 

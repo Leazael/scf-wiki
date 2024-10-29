@@ -1,6 +1,6 @@
 _Motto: Mater Artium Necessitas. Blazon: Sable, three dragonflies volent-en-arriere Or, on a chevron Argent as many gears Gules._
 
-One of the [[Great Joust|Great Houses]] of [[Lethania]] before the [[Lethanian War of Separation]]. They used to be the ruling family of [[Yrsingen]] and ruled from the city of [[Weißenfels]], where they also founded its [[Academy of Weißenfels|academy]].
+One of the former [[Great Joust|Great Houses]] of [[Lethania]] before the [[Lethanian War of Separation]]. They used to be the ruling family of [[Yrsingen]] and ruled from the city of [[Weißenfels]], where they also founded its [[Academy of Weißenfels|academy]].
 
 House Winselniß has retreated into relative obscurity after the [[Lethanian War of Separation]]. However, they are still involved in running the [[Academy of Weißenfels]] and are notable [[Natural Philosophy|natural philosophers]]. They have made a small fortune by owning many of the [[Mythril]] mines in the [[Myriad Mountains]].
 

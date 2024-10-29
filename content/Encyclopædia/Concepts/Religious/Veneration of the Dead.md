@@ -1,7 +1,7 @@
 ---
 aliases: [Ancestors, Ancestor Worship]
 ---
-The Veneration of the Dead is a religious practice practised by many cultures of the forge.
+The Veneration of the Dead is a religious practice practised by many cultures of the [[Crucible]].
 
 # Sainthood in the [[Church of Iomedæ]]
 Within the [[Church of Iomedæ]], particular devout or heroic faithful may be venerated as [[Saint|Saints]]. The worship of these saints is often regional, with the exception of the [[Twelve Paladins]]. People may pray to these [[Saint|Saints]] to intercede on their behalf with [[Iomedæ]] herself.

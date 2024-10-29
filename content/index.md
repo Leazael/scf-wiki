@@ -136,6 +136,7 @@ Collected Lore pages:
   - [[Angelmas]]
   - [[Blightfire of Elbisborg]]
   - [[Gabel Pact]]
+  - [[Great Joust]]
   - [[Nachýrian Exodus]]
   - [[Ragnarǫk]]
   - [[Rupture of the Æther]]
@@ -180,6 +181,7 @@ Collected Lore pages:
     - [[Masked Priests]]
     - [[Orthodox Synodal Church of Iomedæ]]
     - [[Os]]
+    - [[Sosulkan Churches of Iomedæ]]
     - [[Synod]]
     - [[Synodal Church of Iomedæ]]
     - [[Temple of Tiamat]]
@@ -207,12 +209,17 @@ Collected Lore pages:
     - [[Urth]]
   - Cities
     - [[Aldsbury]]
+    - [[Beorminster]]
     - [[Chýrussandr]]
     - [[Covenant]]
     - [[Dimmerschluß]]
+    - [[Draumdyr]]
+    - [[Drysfurt]]
     - [[Echsee]]
     - [[Elbisborg]]
+    - [[Eldmere]]
     - [[Førnheller]]
+    - [[Holmgard]]
     - [[Ilm's Watch]]
     - [[Klingeborn]]
     - [[Krelich]]
@@ -225,6 +232,7 @@ Collected Lore pages:
     - [[Sosulka]]
     - [[Sälen]]
     - [[Tel Varesh]]
+    - [[Weißenfels]]
     - [[Zolushka]]
   - Countries
     - [[Arcadia]]
@@ -300,6 +308,7 @@ Collected Lore pages:
   - [[Founders]]
   - [[Geirvaldr Skyhammer]]
   - [[James IV]]
+  - [[Koschei the Deathless]]
   - [[Mary VIII]]
   - [[Merovitz]]
   - [[Richaerd II]]
@@ -336,8 +345,8 @@ Collected Lore pages:
   - [[Treant]]
   - [[Troll]]
 
-Data: 287 pages completed, 10 in draft, 363 keywords.
+Data: 296 pages completed, 1 in draft, 363 keywords.
 
-62582 words written. 7260 unique words.
+64209 words written. 7307 unique words.
 
-Last updated 2024-07-30 00:21.
+Last updated 2024-10-30 00:54.

@@ -6,9 +6,9 @@ A common creed adopted in [[1762 AF]] by the [[Sosulkan Churches of Iomedæ]], t
 As the name suggests, the creed was formulated in the [[Ilmbund|Ilmian]] city of [[Dimmerschluß]], during the great Synod of [[Dimmerschluß]].
 
 The creed highlights the following topics:
- - [[Iomedæ]] is the only [[God]] worth worshipping.
+ - [[Iomedæ]] is the _only_ [[God]] worth worshipping.
  - [[Iomedæ]] was a mortal woman, and in her role of deity unites both mortal and divine qualities into a single ineffable, but imperfect being.
- - [[Iomedæ]] is the only deity capable and willing to provide mortal souls with salvation in the afterlife.
+ - [[Iomedæ]] is the only deity capable _and_ willing to provide worthy mortal souls with salvation in the afterlife.
  - The acceptance of the [[Iomedæan Canon]] as a guide to a righteous life.
 
 The creed explicitly rejects the [[Heresy|Heresies]] of [[Perfectionist Iomedæism]], [[Symbolic Iomedæism]] and the worship of [[Protokyriatic Deism|Protokyriatic Deities]].

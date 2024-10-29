@@ -3,7 +3,7 @@ aliases: [Grey Empire, Izmorozian]
 ---
 Izmoroz is one of the [[Sosulkan]] countries together with [[Las]]. A large state on the western side of the [[Crucible]]. Has long resided in a medieval stasis, but has recently started a path of rapid progression since Czar [[Koschei the Deathless]] was succeeded by Czar [[Ivan I Czarovitch]].
 
-After centuries of decline, Izmoroz is once again on the rise. With the death of [[Koschei the Deathless]], who was succeeded by the hitherto unknown Czar [[Ivan I Czarovitch]] in [[1749 AF]]. Ever since, his many progressive reforms have tried to push the empire into the 18th century. A large railway from [[Drysfurt]] and [[Ornsheill]], underneath the [[Fomorian Mountains]] has linked the cities of [[Philosophical Powers]] with the Grey Empire.
+After centuries of decline, Izmoroz is once again on the rise. With the death of [[Koschei the Deathless]], who was succeeded by the hitherto unknown Czar [[Ivan I Czarovitch]] in [[1749 AF]]. Ever since, his many progressive reforms have tried to push the empire into the 18th century. A large railway, completed in [[1763 AF]] from [[Drysfurt]] and [[Ornsheill]], underneath the [[Fomorian Mountains]] has linked the cities of [[Philosophical Powers]] with the Grey Empire.
 
 The capital city [[Sosulka]] is after [[Holmgard]] perhaps the oldest city in the [[Crucible]] and used to house one of the embassies of the [[Shining Academy]].
 

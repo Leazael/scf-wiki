@@ -1,6 +1,7 @@
-#draft 
+The Sosulkan [[Church of Iomedæ|Churches]] of [[Iomedæ]] are churches within the [[Synodal Church of Iomedæ|Synodal Church]] that operate in [[Izmoroz]], [[Las]] and parts of [[Polovina]]. They are so named for their usage of the [[Sosulkan]] language.
 
-[[Reparation of '51]] in [[1751 AF]].
-[[Secession of '37]] in [[1737 AF]]
+While differing in style, and lower-level structure, the Sosulkan churches are formally part of the same institute as the [[Orthodox Synodal Church of Iomedæ]]. As such, 24 of the 48 [[Bishop|Bishops]] that form the [[Synod]] are representatives of Sosulkan churches. This number was formalised following the [[Reparation of '51]], when the Sosulkan Churches re-joined the [[Synod]], after leaving during the [[Secession of '37]]. 
 
-The counter-[[Revelationary Politics|apocalyptic]] sentiments in the wake of the [[White Revolution]]. [[Revelationary Revolution]]
+This schism was caused by the fear that the [[Synod]] would become to contaminated by [[Revelationary Politics|apocalyptic]] ideals, following the aftermath of both the [[Revelationary Revolution]] and the [[White Revolution]] of [[1737 AF]].
+
+The Sosulkan churches took part in the joint [[Synodal Church of Iomedæ|Synodal]] intervention during the [[Thanatogenic Ghost Storm]] of [[1761 AF]], and adopted the [[Dimmerschluß Creed]] along with the [[Orthodox Synodal Church of Iomedæ]] at the Great Synod of [[Dimmerschluß]] afterwards.

@@ -1,4 +1,4 @@
-Førnheller is the oldest city of [[Dvårgheim]], it is situated in a vast underground series of caverns underneath the [[Göllnyr Mountains]], on the shores of an underground lake.
+Førnheller is the oldest city of [[Dvårgheim]], possibly hailing from the [[Foreworld]]. It is situated in a vast underground series of caverns underneath the [[Göllnyr Mountains]], on the shores of an underground lake.
 
 Its population mainly consists of [[Dwarf|dwarves]], who make up roughly 80% of the population, and [[Gnome|Gnomes]] who make up roughly 15%. Most of its human population does not live in the city permanently, but only for short intervals, migrating between the city and one of the many towns that dot the [[Göllnyr Mountains]]. This traffic is made possible by the large system of trains and elevators that connect the city to the surface.
 

@@ -5,6 +5,8 @@ The Cacotopic Warp is the name given to [[Holmgard]] and its surrounding areas e
 
 This "pivoting" was described as a city-wide misotropic event, that caused widespread panic, and did irreparable damage to the city's infrastructure. Eye-witness accounts described synchronous hodokinetic patterns, that not only involved the entirety of [[Holmgard]]'s population but also altered its roads and pathways in strange and poorly understood ways.
 
+The first pivot occurred in [[1726 AF]], and caused a widespread panic, leading to a series of riots. Within a few weeks though, the city returned to normal operations. 
+
 Two decades later in [[1743 AF]], at the height of the [[Lethanian War of Separation]], [[Holmgard]] pivoted again. This time large parts of the city became permanently warped to the point of inhabitability. It also forced the last of the remaining [[Lethania|Lethanian]] government to permanently relocate to [[Eldmere]].
 
 Two years later in [[1745 AF]], [[Holmgard]] pivoted for the third and final time, rendering both the city and its surrounding hostile to all forms of life. 

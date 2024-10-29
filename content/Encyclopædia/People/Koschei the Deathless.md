@@ -1,7 +1,9 @@
 ---
 aliases: [Czar Koschei, Koschei the Immortal]
 ---
-#draft 
-Former Czar of [[Izmoroz]] from [[Sosulka]]
-Succeeded by [[Ivan I Czarovitch]]
+Koschei the Deathless was the Czar of [[Izmoroz]] for more than two millennia before his death by the hand of his successor, [[Ivan I Czarovitch]].
+
+
+
+
 Possibly [[Undead]]
